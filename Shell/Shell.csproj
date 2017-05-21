@@ -1,0 +1,316 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{359BF5CA-D476-46F8-B983-E718A12F9B52}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Shell</RootNamespace>
+    <AssemblyName>Shell</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\Bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\Bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>..\Bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <NoWin32Manifest>true</NoWin32Manifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Data.v12.2">
+      <HintPath>..\..\QA\Bin\DevExpress.Data.v12.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Printing.v12.2.Core">
+      <HintPath>..\..\QA\Bin\DevExpress.Printing.v12.2.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Utils.v12.2">
+      <HintPath>..\..\QA\Bin\DevExpress.Utils.v12.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraEditors.v12.2">
+      <HintPath>..\..\QA\Bin\DevExpress.XtraEditors.v12.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraGrid.v12.2">
+      <HintPath>..\..\QA\Bin\DevExpress.XtraGrid.v12.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraLayout.v12.2">
+      <HintPath>..\..\QA\Bin\DevExpress.XtraLayout.v12.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ProjectOxford.Face, Version=1.2.1.1, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\..\ProfileQuotaForQCRecall\Bin\Microsoft.ProjectOxford.Face.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\..\ProfileQuotaForQCRecall\Bin\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="QA.NavBar, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\CodeApp\SourceCode\Bin\QA.NavBar.dll</HintPath>
+    </Reference>
+    <Reference Include="QA.Shared, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Bin\QA.Shared.dll</HintPath>
+    </Reference>
+    <Reference Include="QA_Skin_V1, Version=12.2.17.0, Culture=neutral, PublicKeyToken=95fc6c5621878f0a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\CodeApp\SourceCode\Bin\QA_Skin_V1.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Core\ClientServices.cs" />
+    <Compile Include="Core\Config.cs" />
+    <Compile Include="Core\HttpDataServices.cs" />
+    <Compile Include="Core\Serializer.cs" />
+    <Compile Include="FaceFaceSimilarUnit.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="FaceFaceSimilarUnit.Designer.cs">
+      <DependentUpon>FaceFaceSimilarUnit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FaceFindSimilarControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="FaceFindSimilarControl.Designer.cs">
+      <DependentUpon>FaceFindSimilarControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmProjectList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProjectList.Designer.cs">
+      <DependentUpon>frmProjectList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQCRecall.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQCRecall.Designer.cs">
+      <DependentUpon>frmQCRecall.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmWait.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmWait.Designer.cs">
+      <DependentUpon>frmWait.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FWProfile.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="FWProfile.Designer.cs">
+      <DependentUpon>FWProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LogWriter.cs" />
+    <Compile Include="PersonSimilarResults.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="QuotaGroup.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="QuotaGroup.Designer.cs">
+      <DependentUpon>QuotaGroup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportUtility.cs" />
+    <Compile Include="RespondentProfileInformation.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="RespondentProfileInformation.Designer.cs">
+      <DependentUpon>RespondentProfileInformation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RunReportWait.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RunReportWait.Designer.cs">
+      <DependentUpon>RunReportWait.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Settings.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Settings.Designer.cs">
+      <DependentUpon>Settings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SplashScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SplashScreen.Designer.cs">
+      <DependentUpon>SplashScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SummaryQC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SummaryQC.Designer.cs">
+      <DependentUpon>SummaryQC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SummarySupRecuit.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SummarySupRecuit.Designer.cs">
+      <DependentUpon>SummarySupRecuit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WaittingList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="WaittingList.Designer.cs">
+      <DependentUpon>WaittingList.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="FaceFaceSimilarUnit.resx">
+      <DependentUpon>FaceFaceSimilarUnit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FaceFindSimilarControl.resx">
+      <DependentUpon>FaceFindSimilarControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmProjectList.resx">
+      <DependentUpon>frmProjectList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQCRecall.resx">
+      <DependentUpon>frmQCRecall.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmWait.resx">
+      <DependentUpon>frmWait.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FWProfile.resx">
+      <DependentUpon>FWProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="QuotaGroup.resx">
+      <DependentUpon>QuotaGroup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RespondentProfileInformation.resx">
+      <DependentUpon>RespondentProfileInformation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Settings.resx">
+      <DependentUpon>Settings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SplashScreen.resx">
+      <DependentUpon>SplashScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SummaryQC.resx">
+      <DependentUpon>SummaryQC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SummarySupRecuit.resx">
+      <DependentUpon>SummarySupRecuit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WaittingList.resx">
+      <DependentUpon>WaittingList.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Config.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="log.txt" />
+    <Content Include="Resources\bgFacility.png" />
+    <Content Include="Resources\help.png" />
+    <Content Include="Resources\ImageFile.png" />
+    <Content Include="Resources\kadence.jpg" />
+    <Content Include="Resources\next.png" />
+    <Content Include="Resources\PDF.png" />
+    <Content Include="Resources\prev.png" />
+    <Content Include="Resources\samples_header_out.png" />
+    <Content Include="Resources\ThermalPrinterIcon32x32.png" />
+    <Content Include="Resources\TOXML.png" />
+    <None Include="Resources\kadencelogo.jpg" />
+    <None Include="Resources\kadence_sm1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="packages.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>
+    if not exist "$(TargetDir)win32" md "$(TargetDir)win32"
+    xcopy /s /y "$(SolutionDir)packages\SPSS.NET.1.0.2-alpha\NativeBinaries\win32\*.*" "$(TargetDir)win32"
+    if not exist "$(TargetDir)win64" md "$(TargetDir)win64"
+    xcopy /s /y "$(SolutionDir)packages\SPSS.NET.1.0.2-alpha\NativeBinaries\win64\*.*" "$(TargetDir)win64"</PostBuildEvent>
+  </PropertyGroup>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

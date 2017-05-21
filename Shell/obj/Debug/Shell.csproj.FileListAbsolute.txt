@@ -1,0 +1,221 @@
+C:\Users\TAILE\Desktop\Tri\cauLuu\Bin\Config.xml
+C:\Users\TAILE\Desktop\Tri\cauLuu\Bin\Shell.exe.config
+C:\Users\TAILE\Desktop\Tri\cauLuu\Bin\Shell.exe
+C:\Users\TAILE\Desktop\Tri\cauLuu\Bin\Shell.pdb
+C:\Users\TAILE\Desktop\Tri\cauLuu\Shell\obj\Debug\Shell.csprojResolveAssemblyReference.cache
+C:\Users\TAILE\Desktop\Tri\cauLuu\Shell\obj\Debug\Shell.frmLogin.resources
+C:\Users\TAILE\Desktop\Tri\cauLuu\Shell\obj\Debug\Shell.frmMain.resources
+C:\Users\TAILE\Desktop\Tri\cauLuu\Shell\obj\Debug\Shell.Properties.Resources.resources
+C:\Users\TAILE\Desktop\Tri\cauLuu\Shell\obj\Debug\Shell.SplashScreen.resources
+C:\Users\TAILE\Desktop\Tri\cauLuu\Shell\obj\Debug\Shell.csproj.GenerateResource.Cache
+C:\Users\TAILE\Desktop\Tri\cauLuu\Shell\obj\Debug\Shell.exe
+C:\Users\TAILE\Desktop\Tri\cauLuu\Shell\obj\Debug\Shell.pdb
+D:\Tri\Kadence\Bin\Shell.exe
+D:\Tri\Kadence\Bin\Config.xml
+D:\Tri\Kadence\Bin\Shell.exe.config
+D:\Tri\Kadence\Shell\obj\Debug\Shell.csprojResolveAssemblyReference.cache
+D:\Tri\Kadence\Shell\obj\Debug\Shell.frmLogin.resources
+D:\Tri\Kadence\Shell\obj\Debug\Shell.frmMain.resources
+D:\Tri\Kadence\Shell\obj\Debug\Shell.Properties.Resources.resources
+D:\Tri\Kadence\Shell\obj\Debug\Shell.SplashScreen.resources
+D:\Tri\Kadence\Shell\obj\Debug\Shell.csproj.GenerateResource.Cache
+D:\Tri\Kadence\Shell\obj\Debug\Shell.exe
+D:\Tri\Kadence\Shell\obj\Debug\Shell.pdb
+D:\Tri\Kadence\Bin\Shell.pdb
+D:\Kadence\Bin\Shell.exe.config
+D:\Kadence\Shell\obj\Debug\Shell.exe
+D:\Kadence\Shell\obj\Debug\Shell.pdb
+D:\Kadence\Bin\Config.xml
+D:\Kadence\Bin\Shell.exe
+D:\Kadence\Bin\Shell.pdb
+D:\Kadence\Shell\obj\Debug\Shell.csprojResolveAssemblyReference.cache
+D:\Kadence\Shell\obj\Debug\Shell.frmLogin.resources
+D:\Kadence\Shell\obj\Debug\Shell.frmMain.resources
+D:\Kadence\Shell\obj\Debug\Shell.Properties.Resources.resources
+D:\Kadence\Shell\obj\Debug\Shell.SplashScreen.resources
+D:\Kadence\Shell\obj\Debug\Shell.csproj.GenerateResource.Cache
+D:\Kadence\Source Code Application\Bin\Config.xml
+D:\Kadence\Source Code Application\Bin\Shell.exe.config
+D:\Kadence\Source Code Application\Bin\Shell.exe
+D:\Kadence\Source Code Application\Bin\Shell.pdb
+D:\Kadence\Source Code Application\Shell\obj\Debug\Shell.frmLogin.resources
+D:\Kadence\Source Code Application\Shell\obj\Debug\Shell.frmMain.resources
+D:\Kadence\Source Code Application\Shell\obj\Debug\Shell.Properties.Resources.resources
+D:\Kadence\Source Code Application\Shell\obj\Debug\Shell.SplashScreen.resources
+D:\Kadence\Source Code Application\Shell\obj\Debug\Shell.csproj.GenerateResource.Cache
+D:\Kadence\Source Code Application\Shell\obj\Debug\Shell.exe
+D:\Kadence\Source Code Application\Shell\obj\Debug\Shell.pdb
+D:\Kadence\SourceCode\Bin\Config.xml
+D:\Kadence\SourceCode\Bin\Shell.exe.config
+D:\Kadence\SourceCode\Bin\Shell.exe
+D:\Kadence\SourceCode\Bin\Shell.pdb
+D:\Kadence\SourceCode\Shell\obj\Debug\Shell.frmLogin.resources
+D:\Kadence\SourceCode\Shell\obj\Debug\Shell.frmMain.resources
+D:\Kadence\SourceCode\Shell\obj\Debug\Shell.Properties.Resources.resources
+D:\Kadence\SourceCode\Shell\obj\Debug\Shell.SplashScreen.resources
+D:\Kadence\SourceCode\Shell\obj\Debug\Shell.csproj.GenerateResource.Cache
+D:\Kadence\SourceCode\Shell\obj\Debug\Shell.exe
+D:\Kadence\SourceCode\Shell\obj\Debug\Shell.pdb
+D:\Kadence\SourceCode\Shell\obj\Debug\Shell.csprojResolveAssemblyReference.cache
+F:\Kadence\SourceCode\Bin\Shell.exe.config
+F:\Kadence\SourceCode\Shell\obj\Debug\Shell.exe
+F:\Kadence\SourceCode\Shell\obj\Debug\Shell.pdb
+F:\Kadence\SourceCode\Bin\Config.xml
+F:\Kadence\SourceCode\Bin\Shell.exe
+F:\Kadence\SourceCode\Bin\Shell.pdb
+F:\Kadence\SourceCode\Shell\obj\Debug\Shell.csprojResolveAssemblyReference.cache
+F:\Kadence\SourceCode\Shell\obj\Debug\Shell.frmLogin.resources
+F:\Kadence\SourceCode\Shell\obj\Debug\Shell.frmMain.resources
+F:\Kadence\SourceCode\Shell\obj\Debug\Shell.Properties.Resources.resources
+F:\Kadence\SourceCode\Shell\obj\Debug\Shell.SplashScreen.resources
+F:\Kadence\SourceCode\Shell\obj\Debug\Shell.csproj.GenerateResource.Cache
+F:\Code App\SourceCode\Shell\obj\Debug\Shell.frmLogin.resources
+F:\Code App\SourceCode\Shell\obj\Debug\Shell.frmMain.resources
+F:\Code App\SourceCode\Shell\obj\Debug\Shell.Properties.Resources.resources
+F:\Code App\SourceCode\Shell\obj\Debug\Shell.SplashScreen.resources
+F:\Code App\SourceCode\Shell\obj\Debug\Shell.csproj.GenerateResource.Cache
+F:\Code App\SourceCode\Bin\Config.xml
+F:\Code App\SourceCode\Bin\Shell.exe.config
+F:\Code App\SourceCode\Bin\Shell.exe
+F:\Code App\SourceCode\Bin\Shell.pdb
+F:\Code App\SourceCode\Shell\obj\Debug\Shell.csprojResolveAssemblyReference.cache
+F:\Code App\SourceCode\Shell\obj\Debug\Shell.exe
+F:\Code App\SourceCode\Shell\obj\Debug\Shell.pdb
+F:\CodeApp\SourceCode\Bin\Config.xml
+F:\CodeApp\SourceCode\Bin\Shell.exe.config
+F:\CodeApp\SourceCode\Bin\Shell.exe
+F:\CodeApp\SourceCode\Bin\Shell.pdb
+F:\CodeApp\SourceCode\Shell\obj\Debug\Shell.csprojResolveAssemblyReference.cache
+F:\CodeApp\SourceCode\Shell\obj\Debug\Shell.frmLogin.resources
+F:\CodeApp\SourceCode\Shell\obj\Debug\Shell.frmMain.resources
+F:\CodeApp\SourceCode\Shell\obj\Debug\Shell.Properties.Resources.resources
+F:\CodeApp\SourceCode\Shell\obj\Debug\Shell.SplashScreen.resources
+F:\CodeApp\SourceCode\Shell\obj\Debug\Shell.csproj.GenerateResource.Cache
+F:\CodeApp\SourceCode\Shell\obj\Debug\Shell.exe
+F:\CodeApp\SourceCode\Shell\obj\Debug\Shell.pdb
+F:\SourceCode\ProfileQuotaForQC\Bin\Config.xml
+F:\SourceCode\ProfileQuotaForQC\Bin\Shell.exe.config
+F:\SourceCode\ProfileQuotaForQC\Bin\Shell.exe
+F:\SourceCode\ProfileQuotaForQC\Bin\Shell.pdb
+F:\SourceCode\ProfileQuotaForQC\Shell\obj\Debug\Shell.csprojResolveAssemblyReference.cache
+F:\SourceCode\ProfileQuotaForQC\Shell\obj\Debug\Shell.frmLogin.resources
+F:\SourceCode\ProfileQuotaForQC\Shell\obj\Debug\Shell.frmMain.resources
+F:\SourceCode\ProfileQuotaForQC\Shell\obj\Debug\Shell.Properties.Resources.resources
+F:\SourceCode\ProfileQuotaForQC\Shell\obj\Debug\Shell.SplashScreen.resources
+F:\SourceCode\ProfileQuotaForQC\Shell\obj\Debug\Shell.csproj.GenerateResource.Cache
+F:\SourceCode\ProfileQuotaForQC\Shell\obj\Debug\Shell.exe
+F:\SourceCode\ProfileQuotaForQC\Shell\obj\Debug\Shell.pdb
+F:\SourceCode\ProfileQuotaForQC - Copy\Bin\Config.xml
+F:\SourceCode\ProfileQuotaForQC - Copy\Bin\Shell.exe.config
+F:\SourceCode\ProfileQuotaForQC - Copy\Bin\Shell.exe
+F:\SourceCode\ProfileQuotaForQC - Copy\Bin\Shell.pdb
+F:\SourceCode\ProfileQuotaForQC - Copy\Shell\obj\Debug\Shell.FaceFaceSimilarUnit.resources
+F:\SourceCode\ProfileQuotaForQC - Copy\Shell\obj\Debug\Shell.FaceFindSimilarControl.resources
+F:\SourceCode\ProfileQuotaForQC - Copy\Shell\obj\Debug\Shell.frmLogin.resources
+F:\SourceCode\ProfileQuotaForQC - Copy\Shell\obj\Debug\Shell.frmMain.resources
+F:\SourceCode\ProfileQuotaForQC - Copy\Shell\obj\Debug\Shell.frmQCRecall.resources
+F:\SourceCode\ProfileQuotaForQC - Copy\Shell\obj\Debug\Shell.Properties.Resources.resources
+F:\SourceCode\ProfileQuotaForQC - Copy\Shell\obj\Debug\Shell.QuotaGroup.resources
+F:\SourceCode\ProfileQuotaForQC - Copy\Shell\obj\Debug\Shell.RespondentProfileInformation.resources
+F:\SourceCode\ProfileQuotaForQC - Copy\Shell\obj\Debug\Shell.SplashScreen.resources
+F:\SourceCode\ProfileQuotaForQC - Copy\Shell\obj\Debug\Shell.csproj.GenerateResource.Cache
+F:\SourceCode\ProfileQuotaForQC - Copy\Shell\obj\Debug\Shell.exe
+F:\SourceCode\ProfileQuotaForQC - Copy\Shell\obj\Debug\Shell.pdb
+F:\SourceCode\ProfileQuotaForQC - Copy\Shell\obj\Debug\Shell.Settings.resources
+F:\SourceCode\ProfileQuotaForQC - Copy\Shell\obj\Debug\Shell.frmProjectList.resources
+F:\SourceCode\ProfileQuotaForQC - Copy\Shell\obj\Debug\Shell.SummaryQC.resources
+F:\SourceCode\ProfileQuotaForQC - Copy\Shell\obj\Debug\Shell.SummarySupInterview.resources
+F:\SourceCode\ProfileQuotaForQC - Copy\Shell\obj\Debug\Shell.SummarySupRecuit.resources
+F:\SourceCode\ProfileQuotaForQC - Copy\Shell\obj\Debug\Shell.csprojResolveAssemblyReference.cache
+F:\SourceCode\ProfileQuotaForQCRecall\Shell\obj\Debug\Shell.csprojResolveAssemblyReference.cache
+F:\SourceCode\ProfileQuotaForQCRecall\Shell\obj\Debug\Shell.FaceFaceSimilarUnit.resources
+F:\SourceCode\ProfileQuotaForQCRecall\Shell\obj\Debug\Shell.FaceFindSimilarControl.resources
+F:\SourceCode\ProfileQuotaForQCRecall\Shell\obj\Debug\Shell.frmLogin.resources
+F:\SourceCode\ProfileQuotaForQCRecall\Shell\obj\Debug\Shell.frmProjectList.resources
+F:\SourceCode\ProfileQuotaForQCRecall\Shell\obj\Debug\Shell.frmQCRecall.resources
+F:\SourceCode\ProfileQuotaForQCRecall\Shell\obj\Debug\Shell.Properties.Resources.resources
+F:\SourceCode\ProfileQuotaForQCRecall\Shell\obj\Debug\Shell.QuotaGroup.resources
+F:\SourceCode\ProfileQuotaForQCRecall\Shell\obj\Debug\Shell.RespondentProfileInformation.resources
+F:\SourceCode\ProfileQuotaForQCRecall\Shell\obj\Debug\Shell.Settings.resources
+F:\SourceCode\ProfileQuotaForQCRecall\Shell\obj\Debug\Shell.SplashScreen.resources
+F:\SourceCode\ProfileQuotaForQCRecall\Shell\obj\Debug\Shell.SummaryQC.resources
+F:\SourceCode\ProfileQuotaForQCRecall\Shell\obj\Debug\Shell.csproj.GenerateResource.Cache
+F:\SourceCode\ProfileQuotaForQCRecall\Shell\obj\Debug\Shell.exe.licenses
+F:\SourceCode\ProfileQuotaForQCRecall\Bin\Config.xml
+F:\SourceCode\ProfileQuotaForQCRecall\Bin\Shell.exe.config
+F:\SourceCode\ProfileQuotaForQCRecall\Bin\Shell.exe
+F:\SourceCode\ProfileQuotaForQCRecall\Bin\Shell.pdb
+F:\SourceCode\ProfileQuotaForQCRecall\Shell\obj\Debug\Shell.exe
+F:\SourceCode\ProfileQuotaForQCRecall\Shell\obj\Debug\Shell.pdb
+F:\SourceCode\ProfileQuotaForQuanliRecall\Bin\Config.xml
+F:\SourceCode\ProfileQuotaForQuanliRecall\Bin\Shell.exe.config
+F:\SourceCode\ProfileQuotaForQuanliRecall\Bin\Shell.exe
+F:\SourceCode\ProfileQuotaForQuanliRecall\Bin\Shell.pdb
+F:\SourceCode\ProfileQuotaForQuanliRecall\Shell\obj\Debug\Shell.csprojResolveAssemblyReference.cache
+F:\SourceCode\ProfileQuotaForQuanliRecall\Shell\obj\Debug\Shell.FaceFaceSimilarUnit.resources
+F:\SourceCode\ProfileQuotaForQuanliRecall\Shell\obj\Debug\Shell.FaceFindSimilarControl.resources
+F:\SourceCode\ProfileQuotaForQuanliRecall\Shell\obj\Debug\Shell.frmLogin.resources
+F:\SourceCode\ProfileQuotaForQuanliRecall\Shell\obj\Debug\Shell.frmProjectList.resources
+F:\SourceCode\ProfileQuotaForQuanliRecall\Shell\obj\Debug\Shell.frmQCRecall.resources
+F:\SourceCode\ProfileQuotaForQuanliRecall\Shell\obj\Debug\Shell.Properties.Resources.resources
+F:\SourceCode\ProfileQuotaForQuanliRecall\Shell\obj\Debug\Shell.QuotaGroup.resources
+F:\SourceCode\ProfileQuotaForQuanliRecall\Shell\obj\Debug\Shell.RespondentProfileInformation.resources
+F:\SourceCode\ProfileQuotaForQuanliRecall\Shell\obj\Debug\Shell.Settings.resources
+F:\SourceCode\ProfileQuotaForQuanliRecall\Shell\obj\Debug\Shell.SplashScreen.resources
+F:\SourceCode\ProfileQuotaForQuanliRecall\Shell\obj\Debug\Shell.SummaryQC.resources
+F:\SourceCode\ProfileQuotaForQuanliRecall\Shell\obj\Debug\Shell.csproj.GenerateResource.Cache
+F:\SourceCode\ProfileQuotaForQuanliRecall\Shell\obj\Debug\Shell.exe.licenses
+F:\SourceCode\ProfileQuotaForQuanliRecall\Shell\obj\Debug\Shell.exe
+F:\SourceCode\ProfileQuotaForQuanliRecall\Shell\obj\Debug\Shell.pdb
+F:\SourceCode\ProfileQuotaForQuanliRecall\Shell\obj\Debug\Shell.frmWait.resources
+F:\SourceCode\ProfileQuotaForQuanliRecall\Shell\obj\Debug\Shell.FWProfile.resources
+F:\SourceCode\ProfileQuotaForQuanliRecall\Shell\obj\Debug\Shell.SummarySupRecuit.resources
+F:\SourceCode\ProfileQuotaForQuanliRecall\Shell\obj\Debug\Shell.WaittingList.resources
+F:\SourceCode\Desktop\ProfileQuotaForQuanliRecall\Bin\Config.xml
+F:\SourceCode\Desktop\ProfileQuotaForQuanliRecall\Bin\Shell.exe.config
+F:\SourceCode\Desktop\ProfileQuotaForQuanliRecall\Bin\Shell.exe
+F:\SourceCode\Desktop\ProfileQuotaForQuanliRecall\Bin\Shell.pdb
+F:\SourceCode\Desktop\ProfileQuotaForQuanliRecall\Shell\obj\Debug\Shell.csprojResolveAssemblyReference.cache
+F:\SourceCode\Desktop\ProfileQuotaForQuanliRecall\Shell\obj\Debug\Shell.FaceFaceSimilarUnit.resources
+F:\SourceCode\Desktop\ProfileQuotaForQuanliRecall\Shell\obj\Debug\Shell.FaceFindSimilarControl.resources
+F:\SourceCode\Desktop\ProfileQuotaForQuanliRecall\Shell\obj\Debug\Shell.frmLogin.resources
+F:\SourceCode\Desktop\ProfileQuotaForQuanliRecall\Shell\obj\Debug\Shell.frmProjectList.resources
+F:\SourceCode\Desktop\ProfileQuotaForQuanliRecall\Shell\obj\Debug\Shell.frmQCRecall.resources
+F:\SourceCode\Desktop\ProfileQuotaForQuanliRecall\Shell\obj\Debug\Shell.frmWait.resources
+F:\SourceCode\Desktop\ProfileQuotaForQuanliRecall\Shell\obj\Debug\Shell.FWProfile.resources
+F:\SourceCode\Desktop\ProfileQuotaForQuanliRecall\Shell\obj\Debug\Shell.Properties.Resources.resources
+F:\SourceCode\Desktop\ProfileQuotaForQuanliRecall\Shell\obj\Debug\Shell.QuotaGroup.resources
+F:\SourceCode\Desktop\ProfileQuotaForQuanliRecall\Shell\obj\Debug\Shell.RespondentProfileInformation.resources
+F:\SourceCode\Desktop\ProfileQuotaForQuanliRecall\Shell\obj\Debug\Shell.Settings.resources
+F:\SourceCode\Desktop\ProfileQuotaForQuanliRecall\Shell\obj\Debug\Shell.SplashScreen.resources
+F:\SourceCode\Desktop\ProfileQuotaForQuanliRecall\Shell\obj\Debug\Shell.SummaryQC.resources
+F:\SourceCode\Desktop\ProfileQuotaForQuanliRecall\Shell\obj\Debug\Shell.SummarySupRecuit.resources
+F:\SourceCode\Desktop\ProfileQuotaForQuanliRecall\Shell\obj\Debug\Shell.WaittingList.resources
+F:\SourceCode\Desktop\ProfileQuotaForQuanliRecall\Shell\obj\Debug\Shell.csproj.GenerateResource.Cache
+F:\SourceCode\Desktop\ProfileQuotaForQuanliRecall\Shell\obj\Debug\Shell.exe.licenses
+F:\SourceCode\Desktop\ProfileQuotaForQuanliRecall\Shell\obj\Debug\Shell.exe
+F:\SourceCode\Desktop\ProfileQuotaForQuanliRecall\Shell\obj\Debug\Shell.pdb
+C:\SouceCode\Desktop\ProfileQuotaForQuanliRecall\Bin\Config.xml
+C:\SouceCode\Desktop\ProfileQuotaForQuanliRecall\Bin\Shell.exe.config
+C:\SouceCode\Desktop\ProfileQuotaForQuanliRecall\Bin\Shell.exe
+C:\SouceCode\Desktop\ProfileQuotaForQuanliRecall\Bin\Shell.pdb
+C:\SouceCode\Desktop\ProfileQuotaForQuanliRecall\Shell\obj\Debug\Shell.csprojResolveAssemblyReference.cache
+C:\SouceCode\Desktop\ProfileQuotaForQuanliRecall\Shell\obj\Debug\Shell.FaceFaceSimilarUnit.resources
+C:\SouceCode\Desktop\ProfileQuotaForQuanliRecall\Shell\obj\Debug\Shell.FaceFindSimilarControl.resources
+C:\SouceCode\Desktop\ProfileQuotaForQuanliRecall\Shell\obj\Debug\Shell.frmLogin.resources
+C:\SouceCode\Desktop\ProfileQuotaForQuanliRecall\Shell\obj\Debug\Shell.frmProjectList.resources
+C:\SouceCode\Desktop\ProfileQuotaForQuanliRecall\Shell\obj\Debug\Shell.frmQCRecall.resources
+C:\SouceCode\Desktop\ProfileQuotaForQuanliRecall\Shell\obj\Debug\Shell.frmWait.resources
+C:\SouceCode\Desktop\ProfileQuotaForQuanliRecall\Shell\obj\Debug\Shell.FWProfile.resources
+C:\SouceCode\Desktop\ProfileQuotaForQuanliRecall\Shell\obj\Debug\Shell.Properties.Resources.resources
+C:\SouceCode\Desktop\ProfileQuotaForQuanliRecall\Shell\obj\Debug\Shell.QuotaGroup.resources
+C:\SouceCode\Desktop\ProfileQuotaForQuanliRecall\Shell\obj\Debug\Shell.RespondentProfileInformation.resources
+C:\SouceCode\Desktop\ProfileQuotaForQuanliRecall\Shell\obj\Debug\Shell.Settings.resources
+C:\SouceCode\Desktop\ProfileQuotaForQuanliRecall\Shell\obj\Debug\Shell.SplashScreen.resources
+C:\SouceCode\Desktop\ProfileQuotaForQuanliRecall\Shell\obj\Debug\Shell.SummaryQC.resources
+C:\SouceCode\Desktop\ProfileQuotaForQuanliRecall\Shell\obj\Debug\Shell.SummarySupRecuit.resources
+C:\SouceCode\Desktop\ProfileQuotaForQuanliRecall\Shell\obj\Debug\Shell.WaittingList.resources
+C:\SouceCode\Desktop\ProfileQuotaForQuanliRecall\Shell\obj\Debug\Shell.csproj.GenerateResource.Cache
+C:\SouceCode\Desktop\ProfileQuotaForQuanliRecall\Shell\obj\Debug\Shell.exe.licenses
+C:\SouceCode\Desktop\ProfileQuotaForQuanliRecall\Shell\obj\Debug\Shell.exe
+C:\SouceCode\Desktop\ProfileQuotaForQuanliRecall\Shell\obj\Debug\Shell.pdb

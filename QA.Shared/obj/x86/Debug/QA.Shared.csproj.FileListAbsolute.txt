@@ -1,0 +1,84 @@
+D:\Kadence\SourceCode\QA.Shared\obj\x86\Debug\Interop.WMPLib.dll
+D:\Kadence\SourceCode\QA.Shared\obj\x86\Debug\QA.Shared.csproj.ResolveComReference.cache
+D:\Kadence\SourceCode\QA.Shared\obj\x86\Debug\QA.ClientControl.resources
+D:\Kadence\SourceCode\QA.Shared\obj\x86\Debug\QA.ClientForm.resources
+D:\Kadence\SourceCode\QA.Shared\obj\x86\Debug\QA.Controls.CheckedComboBox.resources
+D:\Kadence\SourceCode\QA.Shared\obj\x86\Debug\QA.Shared.Controls.ComboBox.resources
+D:\Kadence\SourceCode\QA.Shared\obj\x86\Debug\QA.Controls.CheckedTextBox.resources
+D:\Kadence\SourceCode\QA.Shared\obj\x86\Debug\QA.Controls.DateTimeControl.resources
+D:\Kadence\SourceCode\QA.Shared\obj\x86\Debug\QA.Shared.Controls.MemoEdit.resources
+D:\Kadence\SourceCode\QA.Shared\obj\x86\Debug\QA.Controls.RichEditor.resources
+D:\Kadence\SourceCode\QA.Shared\obj\x86\Debug\QA.DashboardControl.resources
+D:\Kadence\SourceCode\QA.Shared\obj\x86\Debug\QA.Shared.csproj.GenerateResource.Cache
+D:\Kadence\SourceCode\QA.Shared\obj\x86\Debug\QA.Shared.Properties.Resources.resources
+D:\Kadence\SourceCode\QA.Shared\bin\x86\Debug\QA.Shared.dll.config
+D:\Kadence\SourceCode\QA.Shared\bin\x86\Debug\QA.Shared.dll
+D:\Kadence\SourceCode\QA.Shared\bin\x86\Debug\QA.Shared.pdb
+D:\Kadence\SourceCode\QA.Shared\bin\x86\Debug\Newtonsoft.Json.dll
+D:\Kadence\SourceCode\QA.Shared\bin\x86\Debug\QA.NavBar.dll
+D:\Kadence\SourceCode\QA.Shared\bin\x86\Debug\Newtonsoft.Json.xml
+D:\Kadence\SourceCode\QA.Shared\bin\x86\Debug\QA.NavBar.pdb
+D:\Kadence\SourceCode\QA.Shared\bin\x86\Debug\Interop.WMPLib.dll
+D:\Kadence\SourceCode\QA.Shared\obj\x86\Debug\QA.Shared.dll
+D:\Kadence\SourceCode\QA.Shared\obj\x86\Debug\QA.Shared.pdb
+D:\Kadence\SourceCode\Bin\QA.Shared.dll.config
+D:\Kadence\SourceCode\Bin\QA.Shared.dll
+D:\Kadence\SourceCode\Bin\QA.Shared.pdb
+D:\Kadence\SourceCode\QA.Shared\obj\x86\Debug\QA.Shared.csprojResolveAssemblyReference.cache
+F:\Kadence\SourceCode\Bin\QA.Shared.dll.config
+F:\Kadence\SourceCode\Bin\QA.Shared.dll
+F:\Kadence\SourceCode\Bin\QA.Shared.pdb
+F:\Kadence\SourceCode\QA.Shared\obj\x86\Debug\Interop.WMPLib.dll
+F:\Kadence\SourceCode\QA.Shared\obj\x86\Debug\QA.Shared.csproj.ResolveComReference.cache
+F:\Kadence\SourceCode\QA.Shared\obj\x86\Debug\QA.ClientControl.resources
+F:\Kadence\SourceCode\QA.Shared\obj\x86\Debug\QA.ClientForm.resources
+F:\Kadence\SourceCode\QA.Shared\obj\x86\Debug\QA.Controls.CheckedComboBox.resources
+F:\Kadence\SourceCode\QA.Shared\obj\x86\Debug\QA.Shared.Controls.ComboBox.resources
+F:\Kadence\SourceCode\QA.Shared\obj\x86\Debug\QA.Controls.CheckedTextBox.resources
+F:\Kadence\SourceCode\QA.Shared\obj\x86\Debug\QA.Controls.DateTimeControl.resources
+F:\Kadence\SourceCode\QA.Shared\obj\x86\Debug\QA.Shared.Controls.MemoEdit.resources
+F:\Kadence\SourceCode\QA.Shared\obj\x86\Debug\QA.Controls.RichEditor.resources
+F:\Kadence\SourceCode\QA.Shared\obj\x86\Debug\QA.DashboardControl.resources
+F:\Kadence\SourceCode\QA.Shared\obj\x86\Debug\QA.Shared.Properties.Resources.resources
+F:\Kadence\SourceCode\QA.Shared\obj\x86\Debug\QA.Shared.csproj.GenerateResource.Cache
+F:\Kadence\SourceCode\QA.Shared\obj\x86\Debug\QA.Shared.dll
+F:\Kadence\SourceCode\QA.Shared\obj\x86\Debug\QA.Shared.pdb
+F:\Kadence\SourceCode\QA.Shared\obj\x86\Debug\QA.Shared.csprojResolveAssemblyReference.cache
+F:\Code App\SourceCode\Bin\QA.Shared.dll.config
+F:\Code App\SourceCode\Bin\QA.Shared.dll
+F:\Code App\SourceCode\Bin\QA.Shared.pdb
+F:\Code App\SourceCode\QA.Shared\obj\x86\Debug\Interop.WMPLib.dll
+F:\Code App\SourceCode\QA.Shared\obj\x86\Debug\QA.Shared.csproj.ResolveComReference.cache
+F:\Code App\SourceCode\QA.Shared\obj\x86\Debug\QA.ClientControl.resources
+F:\Code App\SourceCode\QA.Shared\obj\x86\Debug\QA.ClientForm.resources
+F:\Code App\SourceCode\QA.Shared\obj\x86\Debug\QA.Controls.CheckedComboBox.resources
+F:\Code App\SourceCode\QA.Shared\obj\x86\Debug\QA.Shared.Controls.ComboBox.resources
+F:\Code App\SourceCode\QA.Shared\obj\x86\Debug\QA.Controls.CheckedTextBox.resources
+F:\Code App\SourceCode\QA.Shared\obj\x86\Debug\QA.Controls.DateTimeControl.resources
+F:\Code App\SourceCode\QA.Shared\obj\x86\Debug\QA.Shared.Controls.MemoEdit.resources
+F:\Code App\SourceCode\QA.Shared\obj\x86\Debug\QA.Controls.RichEditor.resources
+F:\Code App\SourceCode\QA.Shared\obj\x86\Debug\QA.DashboardControl.resources
+F:\Code App\SourceCode\QA.Shared\obj\x86\Debug\QA.Shared.Properties.Resources.resources
+F:\Code App\SourceCode\QA.Shared\obj\x86\Debug\QA.Shared.csproj.GenerateResource.Cache
+F:\Code App\SourceCode\QA.Shared\obj\x86\Debug\QA.Shared.dll
+F:\Code App\SourceCode\QA.Shared\obj\x86\Debug\QA.Shared.pdb
+F:\Code App\SourceCode\QA.Shared\obj\x86\Debug\QA.Shared.csprojResolveAssemblyReference.cache
+F:\CodeApp\SourceCode\Bin\QA.Shared.dll.config
+F:\CodeApp\SourceCode\Bin\QA.Shared.dll
+F:\CodeApp\SourceCode\Bin\QA.Shared.pdb
+F:\CodeApp\SourceCode\QA.Shared\obj\x86\Debug\Interop.WMPLib.dll
+F:\CodeApp\SourceCode\QA.Shared\obj\x86\Debug\QA.Shared.csproj.ResolveComReference.cache
+F:\CodeApp\SourceCode\QA.Shared\obj\x86\Debug\QA.ClientControl.resources
+F:\CodeApp\SourceCode\QA.Shared\obj\x86\Debug\QA.ClientForm.resources
+F:\CodeApp\SourceCode\QA.Shared\obj\x86\Debug\QA.Controls.CheckedComboBox.resources
+F:\CodeApp\SourceCode\QA.Shared\obj\x86\Debug\QA.Shared.Controls.ComboBox.resources
+F:\CodeApp\SourceCode\QA.Shared\obj\x86\Debug\QA.Controls.CheckedTextBox.resources
+F:\CodeApp\SourceCode\QA.Shared\obj\x86\Debug\QA.Controls.DateTimeControl.resources
+F:\CodeApp\SourceCode\QA.Shared\obj\x86\Debug\QA.Shared.Controls.MemoEdit.resources
+F:\CodeApp\SourceCode\QA.Shared\obj\x86\Debug\QA.Controls.RichEditor.resources
+F:\CodeApp\SourceCode\QA.Shared\obj\x86\Debug\QA.DashboardControl.resources
+F:\CodeApp\SourceCode\QA.Shared\obj\x86\Debug\QA.Shared.Properties.Resources.resources
+F:\CodeApp\SourceCode\QA.Shared\obj\x86\Debug\QA.Shared.csproj.GenerateResource.Cache
+F:\CodeApp\SourceCode\QA.Shared\obj\x86\Debug\QA.Shared.dll
+F:\CodeApp\SourceCode\QA.Shared\obj\x86\Debug\QA.Shared.pdb
+F:\CodeApp\SourceCode\QA.Shared\obj\x86\Debug\QA.Shared.csprojResolveAssemblyReference.cache

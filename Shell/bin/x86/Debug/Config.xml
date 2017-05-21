@@ -1,0 +1,6 @@
+﻿<Config>
+  <Entry Name="Culture" Value="vi" />
+  <Entry Name="WebService" Value="http://localhost:80/MSSQLSERVER/DataAccess.ashx" />
+  <!-- WebService, BV110, YHCT, DEVQASOL, TESTQASOL 115.79.61.253-25.19.66.249 -25.23.29.38 -->
+
+</Config>

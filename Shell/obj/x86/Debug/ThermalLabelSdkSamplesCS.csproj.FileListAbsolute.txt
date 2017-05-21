@@ -1,0 +1,5 @@
+F:\CodeApp\SourceCode\Shell\obj\x86\Debug\Shell.ImageViewer.resources
+F:\CodeApp\SourceCode\Shell\obj\x86\Debug\ThermalLabelSdkSamplesCS.MainForm.resources
+F:\CodeApp\SourceCode\Shell\obj\x86\Debug\ThermalLabelSdkSamplesCS.PrintJobDialog.resources
+F:\CodeApp\SourceCode\Shell\obj\x86\Debug\ThermalLabelSdkSamplesCS.Properties.Resources.resources
+F:\CodeApp\SourceCode\Shell\obj\x86\Debug\ThermalLabelSdkSamplesCS.csproj.GenerateResource.Cache

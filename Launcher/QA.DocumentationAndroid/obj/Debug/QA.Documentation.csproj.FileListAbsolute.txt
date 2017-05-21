@@ -1,0 +1,212 @@
+D:\Tri\Kadence\Bin\QA.Documentation.dll
+D:\Tri\Kadence\Bin\QA.Documentation.pdb
+D:\Tri\Kadence\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.Answers.AnswerFreeText.resources
+D:\Tri\Kadence\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.Answers.AnswerMatrix.resources
+D:\Tri\Kadence\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.Answers.AnswerMultiChoice.resources
+D:\Tri\Kadence\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.Answers.AnswerSingleChoice.resources
+D:\Tri\Kadence\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.Answers.Properties.frmPropertiesMultiChoice.resources
+D:\Tri\Kadence\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.Answers.Properties.frmPropertiesSingleChoice.resources
+D:\Tri\Kadence\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.frmDesignSingleChoiceControl.resources
+D:\Tri\Kadence\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.frmDesignMultiChoiceControl.resources
+D:\Tri\Kadence\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.frmDesignFreeTextControl.resources
+D:\Tri\Kadence\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.QuestionControl.resources
+D:\Tri\Kadence\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.VariablesControl.resources
+D:\Tri\Kadence\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.Variables.VariablesFreeText.resources
+D:\Tri\Kadence\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.ViewMultiChoice.resources
+D:\Tri\Kadence\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.ViewSingleChoice.resources
+D:\Tri\Kadence\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.ViewFreeText.resources
+D:\Tri\Kadence\QA.Documentation\obj\Debug\QA.Documentation.DocGenericForm.resources
+D:\Tri\Kadence\QA.Documentation\obj\Debug\QA.Documentation.DocGenericForm2.resources
+D:\Tri\Kadence\QA.Documentation\obj\Debug\QA.Documentation.frmDesignForm.resources
+D:\Tri\Kadence\QA.Documentation\obj\Debug\QA.Documentation.frmNewDocumentSelect.resources
+D:\Tri\Kadence\QA.Documentation\obj\Debug\QA.Documentation.GenericControls.GenCheckBox.resources
+D:\Tri\Kadence\QA.Documentation\obj\Debug\QA.Documentation.GenericControls.GenComboBox.resources
+D:\Tri\Kadence\QA.Documentation\obj\Debug\QA.Documentation.GenericControls.GenDate.resources
+D:\Tri\Kadence\QA.Documentation\obj\Debug\QA.Documentation.GenericControls.GenGroupControl.resources
+D:\Tri\Kadence\QA.Documentation\obj\Debug\QA.Documentation.GenericControls.GenLabel.resources
+D:\Tri\Kadence\QA.Documentation\obj\Debug\QA.Documentation.GenericControls.GenMemo.resources
+D:\Tri\Kadence\QA.Documentation\obj\Debug\QA.Documentation.GenericControls.GenRadioGroup.resources
+D:\Tri\Kadence\QA.Documentation\obj\Debug\QA.Documentation.GenericControls.GenTextBox.resources
+D:\Tri\Kadence\QA.Documentation\obj\Debug\QA.Documentation.ProjectControl.resources
+D:\Tri\Kadence\QA.Documentation\obj\Debug\QA.Documentation.csproj.GenerateResource.Cache
+D:\Tri\Kadence\QA.Documentation\obj\Debug\QA.Documentation.dll
+D:\Tri\Kadence\QA.Documentation\obj\Debug\QA.Documentation.pdb
+D:\Tri\Kadence\QA.Documentation\obj\Debug\QA.Documentation.dll.licenses
+D:\Tri\Kadence\QA.Documentation\obj\Debug\QA.Documentation.Properties.Resources.resources
+D:\Tri\Kadence\QA.Documentation\obj\Debug\QA.Documentation.csprojResolveAssemblyReference.cache
+D:\Tri\Kadence\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.RuleControl.resources
+D:\Tri\Kadence\QA.Documentation\obj\Debug\QA.Documentation.Rule.frmRuleBuilder.resources
+D:\Tri\Kadence\QA.Documentation\obj\Debug\QA.Documentation.frmProject.resources
+D:\Tri\Kadence\QA.Documentation\obj\Debug\QA.Documentation.frmAssignUser.resources
+D:\Kadence\Bin\QA.Documentation.dll
+D:\Kadence\Bin\QA.Documentation.pdb
+D:\Kadence\QA.Documentation\obj\Debug\QA.Documentation.csprojResolveAssemblyReference.cache
+D:\Kadence\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.Answers.AnswerFreeText.resources
+D:\Kadence\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.Answers.AnswerMatrix.resources
+D:\Kadence\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.Answers.AnswerMultiChoice.resources
+D:\Kadence\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.Answers.AnswerSingleChoice.resources
+D:\Kadence\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.Answers.Properties.frmPropertiesMultiChoice.resources
+D:\Kadence\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.Answers.Properties.frmPropertiesSingleChoice.resources
+D:\Kadence\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.frmDesignSingleChoiceControl.resources
+D:\Kadence\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.frmDesignMultiChoiceControl.resources
+D:\Kadence\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.frmDesignFreeTextControl.resources
+D:\Kadence\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.QuestionControl.resources
+D:\Kadence\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.RuleControl.resources
+D:\Kadence\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.VariablesControl.resources
+D:\Kadence\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.Variables.VariablesFreeText.resources
+D:\Kadence\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.ViewMultiChoice.resources
+D:\Kadence\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.ViewSingleChoice.resources
+D:\Kadence\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.ViewFreeText.resources
+D:\Kadence\QA.Documentation\obj\Debug\QA.Documentation.DocGenericForm.resources
+D:\Kadence\QA.Documentation\obj\Debug\QA.Documentation.DocGenericForm2.resources
+D:\Kadence\QA.Documentation\obj\Debug\QA.Documentation.frmAssignUser.resources
+D:\Kadence\QA.Documentation\obj\Debug\QA.Documentation.frmDesignForm.resources
+D:\Kadence\QA.Documentation\obj\Debug\QA.Documentation.frmNewDocumentSelect.resources
+D:\Kadence\QA.Documentation\obj\Debug\QA.Documentation.frmProject.resources
+D:\Kadence\QA.Documentation\obj\Debug\QA.Documentation.GenericControls.GenCheckBox.resources
+D:\Kadence\QA.Documentation\obj\Debug\QA.Documentation.GenericControls.GenComboBox.resources
+D:\Kadence\QA.Documentation\obj\Debug\QA.Documentation.GenericControls.GenDate.resources
+D:\Kadence\QA.Documentation\obj\Debug\QA.Documentation.GenericControls.GenGroupControl.resources
+D:\Kadence\QA.Documentation\obj\Debug\QA.Documentation.GenericControls.GenLabel.resources
+D:\Kadence\QA.Documentation\obj\Debug\QA.Documentation.GenericControls.GenMemo.resources
+D:\Kadence\QA.Documentation\obj\Debug\QA.Documentation.GenericControls.GenRadioGroup.resources
+D:\Kadence\QA.Documentation\obj\Debug\QA.Documentation.GenericControls.GenTextBox.resources
+D:\Kadence\QA.Documentation\obj\Debug\QA.Documentation.ProjectControl.resources
+D:\Kadence\QA.Documentation\obj\Debug\QA.Documentation.Properties.Resources.resources
+D:\Kadence\QA.Documentation\obj\Debug\QA.Documentation.Rule.frmRuleBuilder.resources
+D:\Kadence\QA.Documentation\obj\Debug\QA.Documentation.csproj.GenerateResource.Cache
+D:\Kadence\QA.Documentation\obj\Debug\QA.Documentation.dll.licenses
+D:\Kadence\QA.Documentation\obj\Debug\QA.Documentation.dll
+D:\Kadence\QA.Documentation\obj\Debug\QA.Documentation.pdb
+D:\Kadence\Source Code Application\Bin\QA.Documentation.dll
+D:\Kadence\Source Code Application\Bin\QA.Documentation.pdb
+D:\Kadence\Source Code Application\QA.Documentation\obj\Debug\QA.Documentation.csprojResolveAssemblyReference.cache
+D:\Kadence\Source Code Application\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.Answers.AnswerFreeText.resources
+D:\Kadence\Source Code Application\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.Answers.AnswerMatrix.resources
+D:\Kadence\Source Code Application\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.Answers.AnswerMultiChoice.resources
+D:\Kadence\Source Code Application\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.Answers.AnswerSingleChoice.resources
+D:\Kadence\Source Code Application\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.Answers.Properties.frmPropertiesMultiChoice.resources
+D:\Kadence\Source Code Application\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.Answers.Properties.frmPropertiesSingleChoice.resources
+D:\Kadence\Source Code Application\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.frmDesignSingleChoiceControl.resources
+D:\Kadence\Source Code Application\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.frmDesignMultiChoiceControl.resources
+D:\Kadence\Source Code Application\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.frmDesignFreeTextControl.resources
+D:\Kadence\Source Code Application\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.QuestionControl.resources
+D:\Kadence\Source Code Application\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.RuleControl.resources
+D:\Kadence\Source Code Application\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.VariablesControl.resources
+D:\Kadence\Source Code Application\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.Variables.VariablesFreeText.resources
+D:\Kadence\Source Code Application\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.ViewMultiChoice.resources
+D:\Kadence\Source Code Application\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.ViewSingleChoice.resources
+D:\Kadence\Source Code Application\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.ViewFreeText.resources
+D:\Kadence\Source Code Application\QA.Documentation\obj\Debug\QA.Documentation.DocGenericForm.resources
+D:\Kadence\Source Code Application\QA.Documentation\obj\Debug\QA.Documentation.DocGenericForm2.resources
+D:\Kadence\Source Code Application\QA.Documentation\obj\Debug\QA.Documentation.frmAssignUser.resources
+D:\Kadence\Source Code Application\QA.Documentation\obj\Debug\QA.Documentation.frmDesignForm.resources
+D:\Kadence\Source Code Application\QA.Documentation\obj\Debug\QA.Documentation.frmNewDocumentSelect.resources
+D:\Kadence\Source Code Application\QA.Documentation\obj\Debug\QA.Documentation.frmProject.resources
+D:\Kadence\Source Code Application\QA.Documentation\obj\Debug\QA.Documentation.GenericControls.GenCheckBox.resources
+D:\Kadence\Source Code Application\QA.Documentation\obj\Debug\QA.Documentation.GenericControls.GenComboBox.resources
+D:\Kadence\Source Code Application\QA.Documentation\obj\Debug\QA.Documentation.GenericControls.GenDate.resources
+D:\Kadence\Source Code Application\QA.Documentation\obj\Debug\QA.Documentation.GenericControls.GenGroupControl.resources
+D:\Kadence\Source Code Application\QA.Documentation\obj\Debug\QA.Documentation.GenericControls.GenLabel.resources
+D:\Kadence\Source Code Application\QA.Documentation\obj\Debug\QA.Documentation.GenericControls.GenMemo.resources
+D:\Kadence\Source Code Application\QA.Documentation\obj\Debug\QA.Documentation.GenericControls.GenRadioGroup.resources
+D:\Kadence\Source Code Application\QA.Documentation\obj\Debug\QA.Documentation.GenericControls.GenTextBox.resources
+D:\Kadence\Source Code Application\QA.Documentation\obj\Debug\QA.Documentation.ProjectControl.resources
+D:\Kadence\Source Code Application\QA.Documentation\obj\Debug\QA.Documentation.Properties.Resources.resources
+D:\Kadence\Source Code Application\QA.Documentation\obj\Debug\QA.Documentation.Rule.frmRuleBuilder.resources
+D:\Kadence\Source Code Application\QA.Documentation\obj\Debug\QA.Documentation.csproj.GenerateResource.Cache
+D:\Kadence\Source Code Application\QA.Documentation\obj\Debug\QA.Documentation.dll.licenses
+D:\Kadence\Source Code Application\QA.Documentation\obj\Debug\QA.Documentation.dll
+D:\Kadence\Source Code Application\QA.Documentation\obj\Debug\QA.Documentation.pdb
+D:\Kadence\SourceCode\Bin\QA.Documentation.dll
+D:\Kadence\SourceCode\Bin\QA.Documentation.pdb
+D:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.Answers.AnswerFreeText.resources
+D:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.Answers.AnswerMatrix.resources
+D:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.Answers.AnswerMultiChoice.resources
+D:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.Answers.AnswerSingleChoice.resources
+D:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.Answers.Properties.frmPropertiesMultiChoice.resources
+D:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.Answers.Properties.frmPropertiesSingleChoice.resources
+D:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.frmDesignSingleChoiceControl.resources
+D:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.frmDesignMultiChoiceControl.resources
+D:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.frmDesignFreeTextControl.resources
+D:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.QuestionControl.resources
+D:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.RuleControl.resources
+D:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.VariablesControl.resources
+D:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.Variables.VariablesFreeText.resources
+D:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.ViewMultiChoice.resources
+D:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.ViewSingleChoice.resources
+D:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.ViewFreeText.resources
+D:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.DocGenericForm.resources
+D:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.DocGenericForm2.resources
+D:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.frmAssignUser.resources
+D:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.frmDesignForm.resources
+D:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.frmDesignFormBasic.resources
+D:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.frmQuestion.resources
+D:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.frmNewDocumentSelect.resources
+D:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.frmProject.resources
+D:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.GenericControls.GenCheckBox.resources
+D:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.GenericControls.GenComboBox.resources
+D:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.GenericControls.GenDate.resources
+D:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.GenericControls.GenGroupControl.resources
+D:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.GenericControls.GenLabel.resources
+D:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.GenericControls.GenMemo.resources
+D:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.GenericControls.GenRadioGroup.resources
+D:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.GenericControls.GenTextBox.resources
+D:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.ProjectControl.resources
+D:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.Properties.Resources.resources
+D:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.Rule.frmRuleBuilder.resources
+D:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.csproj.GenerateResource.Cache
+D:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.dll.licenses
+D:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.dll
+D:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.pdb
+D:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.frmRangeNumberTemplate.resources
+D:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.frmSkipLogic.resources
+D:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.frmDQA.resources
+D:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.frmAutoAssignValue.resources
+D:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.csprojResolveAssemblyReference.cache
+F:\Kadence\SourceCode\Bin\QA.Documentation.dll
+F:\Kadence\SourceCode\Bin\QA.Documentation.pdb
+F:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.csprojResolveAssemblyReference.cache
+F:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.Answers.AnswerFreeText.resources
+F:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.Answers.AnswerMatrix.resources
+F:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.Answers.AnswerMultiChoice.resources
+F:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.Answers.AnswerSingleChoice.resources
+F:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.Answers.Properties.frmPropertiesMultiChoice.resources
+F:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.Answers.Properties.frmPropertiesSingleChoice.resources
+F:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.frmDesignSingleChoiceControl.resources
+F:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.frmDesignMultiChoiceControl.resources
+F:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.frmDesignFreeTextControl.resources
+F:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.QuestionControl.resources
+F:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.RuleControl.resources
+F:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.VariablesControl.resources
+F:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.Variables.VariablesFreeText.resources
+F:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.ViewMultiChoice.resources
+F:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.ViewSingleChoice.resources
+F:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.DesignForm.ViewFreeText.resources
+F:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.DocGenericForm.resources
+F:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.DocGenericForm2.resources
+F:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.frmAssignUser.resources
+F:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.frmAutoAssignValue.resources
+F:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.frmDesignForm.resources
+F:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.frmDesignFormBasic.resources
+F:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.frmDQA.resources
+F:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.frmQuestion.resources
+F:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.frmNewDocumentSelect.resources
+F:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.frmProject.resources
+F:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.frmRangeNumberTemplate.resources
+F:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.frmSkipLogic.resources
+F:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.GenericControls.GenCheckBox.resources
+F:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.GenericControls.GenComboBox.resources
+F:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.GenericControls.GenDate.resources
+F:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.GenericControls.GenGroupControl.resources
+F:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.GenericControls.GenLabel.resources
+F:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.GenericControls.GenMemo.resources
+F:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.GenericControls.GenRadioGroup.resources
+F:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.GenericControls.GenTextBox.resources
+F:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.ProjectControl.resources
+F:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.Properties.Resources.resources
+F:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.Rule.frmRuleBuilder.resources
+F:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.csproj.GenerateResource.Cache
+F:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.dll.licenses
+F:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.dll
+F:\Kadence\SourceCode\QA.Documentation\obj\Debug\QA.Documentation.pdb

@@ -1,0 +1,437 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F3DA43FD-033B-4362-B7CF-8FE0E94BECC1}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>QA.Documentation</RootNamespace>
+    <AssemblyName>QA.Documentation</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\Bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\Bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Printing.v15.1.Core, Version=15.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.Data.v15.1, Version=15.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.Utils.v15.1, Version=15.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.XtraBars.v15.1, Version=15.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v15.1, Version=15.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.XtraPrinting.v15.1, Version=15.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.XtraGrid.v15.1, Version=15.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.XtraLayout.v15.1, Version=15.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Bin\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="QA.Shared, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Bin\QA.Shared.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CustomFlowLayoutPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DesignForm\Answers\AnswerFreeText.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DesignForm\Answers\AnswerFreeText.Designer.cs">
+      <DependentUpon>AnswerFreeText.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DesignForm\Answers\AnswerMatrix.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DesignForm\Answers\AnswerMultiSelection - Copy.Designer.cs">
+      <DependentUpon>AnswerMatrix.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DesignForm\Answers\AnswerMultiChoice.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DesignForm\Answers\AnswerMultiChoice.Designer.cs">
+      <DependentUpon>AnswerMultiChoice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DesignForm\Answers\AnswerSingleChoice.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DesignForm\Answers\AnswerSingleChoice.Designer.cs">
+      <DependentUpon>AnswerSingleChoice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DesignForm\Answers\Properties\frmPropertiesMultiChoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DesignForm\Answers\Properties\frmPropertiesMultiChoice.Designer.cs">
+      <DependentUpon>frmPropertiesMultiChoice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DesignForm\Answers\Properties\frmPropertiesSingleChoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DesignForm\Answers\Properties\frmPropertiesSingleChoice.Designer.cs">
+      <DependentUpon>frmPropertiesSingleChoice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DesignForm\frmDesignSingleChoiceControl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DesignForm\frmDesignSingleChoiceControl.Designer.cs">
+      <DependentUpon>frmDesignSingleChoiceControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DesignForm\frmDesignMultiChoiceControl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DesignForm\frmDesignMultiChoiceControl.Designer.cs">
+      <DependentUpon>frmDesignMultiChoiceControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DesignForm\frmDesignFreeTextControl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DesignForm\frmDesignFreeTextControl.Designer.cs">
+      <DependentUpon>frmDesignFreeTextControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DesignForm\QuestionControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DesignForm\QuestionControl.Designer.cs">
+      <DependentUpon>QuestionControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DesignForm\RuleControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DesignForm\RuleControl.Designer.cs">
+      <DependentUpon>RuleControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DesignForm\VariablesControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DesignForm\VariablesControl.Designer.cs">
+      <DependentUpon>VariablesControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DesignForm\Variables\VariablesFreeText.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DesignForm\Variables\VariablesFreeText.Designer.cs">
+      <DependentUpon>VariablesFreeText.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DesignForm\View\ViewMultiChoice.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DesignForm\View\ViewMultiChoice.Designer.cs">
+      <DependentUpon>ViewMultiChoice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DesignForm\View\ViewSingleChoice.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DesignForm\View\ViewSingleChoice.Designer.cs">
+      <DependentUpon>ViewSingleChoice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DesignForm\View\ViewFreeText.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DesignForm\View\ViewFreeText.Designer.cs">
+      <DependentUpon>ViewFreeText.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DocControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DocControl.Designer.cs">
+      <DependentUpon>DocControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DocGenericForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DocGenericForm.Designer.cs">
+      <DependentUpon>DocGenericForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DocGenericForm2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DocGenericForm2.Designer.cs">
+      <DependentUpon>DocGenericForm2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDesignForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDesignForm.Designer.cs">
+      <DependentUpon>frmDesignForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNewDocumentSelect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNewDocumentSelect.Designer.cs">
+      <DependentUpon>frmNewDocumentSelect.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GDoc2\Document.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GDoc2\Document.Designer.cs">
+      <DependentUpon>Document.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GDoc2\ElemBase.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GDoc2\ElemBase.Designer.cs">
+      <DependentUpon>ElemBase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GDoc2\ElemCheck.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GDoc2\ElemCheck.Designer.cs">
+      <DependentUpon>ElemCheck.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GDoc2\ElemGroup.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GDoc2\ElemGroup.Designer.cs">
+      <DependentUpon>ElemGroup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GDoc2\ElemInput.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GDoc2\ElemInput.Designer.cs">
+      <DependentUpon>ElemInput.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GDoc2\ElemLabel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GDoc2\ElemLabel.Designer.cs">
+      <DependentUpon>ElemLabel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GDoc2\ElemOptions.cs" />
+    <Compile Include="GDoc2\IHaveValue.cs" />
+    <Compile Include="GenericControls\%40GenControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GenericControls\%40GenControl.Designer.cs">
+      <DependentUpon>%40GenControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GenericControls\GenCheckBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GenericControls\GenCheckBox.Designer.cs">
+      <DependentUpon>GenCheckBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GenericControls\GenComboBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GenericControls\GenComboBox.Designer.cs">
+      <DependentUpon>GenComboBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GenericControls\GenDate.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GenericControls\GenDate.Designer.cs">
+      <DependentUpon>GenDate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GenericControls\GenGroupControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GenericControls\GenGroupControl.Designer.cs">
+      <DependentUpon>GenGroupControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GenericControls\GenLabel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GenericControls\GenLabel.Designer.cs">
+      <DependentUpon>GenLabel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GenericControls\GenLineBreak.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GenericControls\GenLineBreak.Designer.cs">
+      <DependentUpon>GenLineBreak.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GenericControls\GenMemo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GenericControls\GenMemo.Designer.cs">
+      <DependentUpon>GenMemo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GenericControls\GenRadioGroup.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GenericControls\GenRadioGroup.Designer.cs">
+      <DependentUpon>GenRadioGroup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GenericControls\GenTextBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GenericControls\GenTextBox.Designer.cs">
+      <DependentUpon>GenTextBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IDocument.cs" />
+    <Compile Include="IGenericControl.cs" />
+    <Compile Include="ProjectControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ProjectControl.Designer.cs">
+      <DependentUpon>ProjectControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Rule\frmRuleBuilder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rule\frmRuleBuilder.Designer.cs">
+      <DependentUpon>frmRuleBuilder.cs</DependentUpon>
+    </Compile>
+    <Service Include="{94E38DFF-614B-4cbd-B67C-F211BB35CE8B}" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="DesignForm\Answers\AnswerFreeText.resx">
+      <DependentUpon>AnswerFreeText.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DesignForm\Answers\AnswerMultiSelection - Copy.resx">
+      <DependentUpon>AnswerMatrix.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DesignForm\Answers\AnswerMultiChoice.resx">
+      <DependentUpon>AnswerMultiChoice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DesignForm\Answers\AnswerSingleChoice.resx">
+      <DependentUpon>AnswerSingleChoice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DesignForm\Answers\Properties\frmPropertiesMultiChoice.resx">
+      <DependentUpon>frmPropertiesMultiChoice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DesignForm\Answers\Properties\frmPropertiesSingleChoice.resx">
+      <DependentUpon>frmPropertiesSingleChoice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DesignForm\frmDesignSingleChoiceControl.resx">
+      <DependentUpon>frmDesignSingleChoiceControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DesignForm\frmDesignMultiChoiceControl.resx">
+      <DependentUpon>frmDesignMultiChoiceControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DesignForm\frmDesignFreeTextControl.resx">
+      <DependentUpon>frmDesignFreeTextControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DesignForm\QuestionControl.resx">
+      <DependentUpon>QuestionControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DesignForm\RuleControl.resx">
+      <DependentUpon>RuleControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DesignForm\VariablesControl.resx">
+      <DependentUpon>VariablesControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DesignForm\Variables\VariablesFreeText.resx">
+      <DependentUpon>VariablesFreeText.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DesignForm\View\ViewMultiChoice.resx">
+      <DependentUpon>ViewMultiChoice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DesignForm\View\ViewSingleChoice.resx">
+      <DependentUpon>ViewSingleChoice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DesignForm\View\ViewFreeText.resx">
+      <DependentUpon>ViewFreeText.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DocControl.resx">
+      <DependentUpon>DocControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DocGenericForm.resx">
+      <DependentUpon>DocGenericForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DocGenericForm2.resx">
+      <DependentUpon>DocGenericForm2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDesignForm.resx">
+      <DependentUpon>frmDesignForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNewDocumentSelect.resx">
+      <DependentUpon>frmNewDocumentSelect.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GenericControls\GenCheckBox.resx">
+      <DependentUpon>GenCheckBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GenericControls\GenComboBox.resx">
+      <DependentUpon>GenComboBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GenericControls\GenDate.resx">
+      <DependentUpon>GenDate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GenericControls\GenGroupControl.resx">
+      <DependentUpon>GenGroupControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GenericControls\GenLabel.resx">
+      <DependentUpon>GenLabel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GenericControls\GenMemo.resx">
+      <DependentUpon>GenMemo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GenericControls\GenRadioGroup.resx">
+      <DependentUpon>GenRadioGroup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GenericControls\GenTextBox.resx">
+      <DependentUpon>GenTextBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProjectControl.resx">
+      <DependentUpon>ProjectControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rule\frmRuleBuilder.resx">
+      <DependentUpon>frmRuleBuilder.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

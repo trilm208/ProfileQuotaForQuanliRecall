@@ -1,0 +1,58 @@
+D:\Kadence\SourceCode\Shell\obj\x86\Debug\Shell.csprojResolveAssemblyReference.cache
+D:\Kadence\SourceCode\Shell\obj\x86\Debug\Shell.frmLogin.resources
+D:\Kadence\SourceCode\Shell\obj\x86\Debug\Shell.frmMain.resources
+D:\Kadence\SourceCode\Shell\obj\x86\Debug\Shell.Properties.Resources.resources
+D:\Kadence\SourceCode\Shell\obj\x86\Debug\Shell.SplashScreen.resources
+D:\Kadence\SourceCode\Shell\obj\x86\Debug\Shell.csproj.GenerateResource.Cache
+D:\Kadence\SourceCode\Shell\bin\x86\Debug\Shell.exe.config
+D:\Kadence\SourceCode\Shell\bin\x86\Debug\Config.xml
+D:\Kadence\SourceCode\Shell\bin\x86\Debug\Shell.exe
+D:\Kadence\SourceCode\Shell\bin\x86\Debug\Shell.pdb
+D:\Kadence\SourceCode\Shell\bin\x86\Debug\Newtonsoft.Json.dll
+D:\Kadence\SourceCode\Shell\bin\x86\Debug\QA.NavBar.dll
+D:\Kadence\SourceCode\Shell\bin\x86\Debug\QA.Shared.dll
+D:\Kadence\SourceCode\Shell\bin\x86\Debug\Newtonsoft.Json.xml
+D:\Kadence\SourceCode\Shell\bin\x86\Debug\QA.NavBar.pdb
+D:\Kadence\SourceCode\Shell\bin\x86\Debug\QA.Shared.pdb
+D:\Kadence\SourceCode\Shell\obj\x86\Debug\Shell.exe
+D:\Kadence\SourceCode\Shell\obj\x86\Debug\Shell.pdb
+D:\Kadence\SourceCode\Bin\Shell.exe.config
+D:\Kadence\SourceCode\Bin\Config.xml
+D:\Kadence\SourceCode\Bin\Shell.exe
+D:\Kadence\SourceCode\Bin\Shell.pdb
+F:\Kadence\SourceCode\Bin\Shell.exe.config
+F:\Kadence\SourceCode\Shell\obj\x86\Debug\Shell.exe
+F:\Kadence\SourceCode\Shell\obj\x86\Debug\Shell.pdb
+F:\Kadence\SourceCode\Bin\Config.xml
+F:\Kadence\SourceCode\Bin\Shell.exe
+F:\Kadence\SourceCode\Bin\Shell.pdb
+F:\Kadence\SourceCode\Shell\obj\x86\Debug\Shell.csprojResolveAssemblyReference.cache
+F:\Kadence\SourceCode\Shell\obj\x86\Debug\Shell.frmLogin.resources
+F:\Kadence\SourceCode\Shell\obj\x86\Debug\Shell.frmMain.resources
+F:\Kadence\SourceCode\Shell\obj\x86\Debug\Shell.Properties.Resources.resources
+F:\Kadence\SourceCode\Shell\obj\x86\Debug\Shell.SplashScreen.resources
+F:\Kadence\SourceCode\Shell\obj\x86\Debug\Shell.csproj.GenerateResource.Cache
+F:\Code App\SourceCode\Bin\Shell.exe.config
+F:\Code App\SourceCode\Shell\obj\x86\Debug\Shell.pdb
+F:\Code App\SourceCode\Bin\Config.xml
+F:\Code App\SourceCode\Bin\Shell.exe
+F:\Code App\SourceCode\Bin\Shell.pdb
+F:\Code App\SourceCode\Shell\obj\x86\Debug\Shell.csprojResolveAssemblyReference.cache
+F:\Code App\SourceCode\Shell\obj\x86\Debug\Shell.frmLogin.resources
+F:\Code App\SourceCode\Shell\obj\x86\Debug\Shell.frmMain.resources
+F:\Code App\SourceCode\Shell\obj\x86\Debug\Shell.Properties.Resources.resources
+F:\Code App\SourceCode\Shell\obj\x86\Debug\Shell.SplashScreen.resources
+F:\Code App\SourceCode\Shell\obj\x86\Debug\Shell.csproj.GenerateResource.Cache
+F:\Code App\SourceCode\Shell\obj\x86\Debug\Shell.exe
+F:\CodeApp\SourceCode\Bin\Config.xml
+F:\CodeApp\SourceCode\Bin\Shell.exe.config
+F:\CodeApp\SourceCode\Bin\Shell.exe
+F:\CodeApp\SourceCode\Bin\Shell.pdb
+F:\CodeApp\SourceCode\Shell\obj\x86\Debug\Shell.csprojResolveAssemblyReference.cache
+F:\CodeApp\SourceCode\Shell\obj\x86\Debug\Shell.frmLogin.resources
+F:\CodeApp\SourceCode\Shell\obj\x86\Debug\Shell.frmMain.resources
+F:\CodeApp\SourceCode\Shell\obj\x86\Debug\Shell.Properties.Resources.resources
+F:\CodeApp\SourceCode\Shell\obj\x86\Debug\Shell.SplashScreen.resources
+F:\CodeApp\SourceCode\Shell\obj\x86\Debug\Shell.csproj.GenerateResource.Cache
+F:\CodeApp\SourceCode\Shell\obj\x86\Debug\Shell.exe
+F:\CodeApp\SourceCode\Shell\obj\x86\Debug\Shell.pdb

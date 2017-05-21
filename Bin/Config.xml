@@ -1,0 +1,10 @@
+﻿<Config>
+  <Entry Name="Culture" Value="vi" />
+  <Entry Name="FacID" Value="1" />
+  <Entry Name="ApplicationName" Value="KDMA" />
+  <Entry Name="WebService" Value="http://localhost:8080/DataAccess.ashx" />
+  <Entry Name="ServerName" Value="113.161.97.235,6969\Kadence" />
+  <Entry Name="VPrinterName" Value="MAYINNHIET2" />
+  <!--<Entry Name="ServerName" Value="FW-DP02\KADENCE" />-->
+
+</Config>

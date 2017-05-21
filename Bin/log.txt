@@ -1,0 +1,1419 @@
+
+Log Entry : 10:45:51 PM Monday, March 27, 2017
+  :
+  :Resquest DetectAsync
+-------------------------------
+
+Log Entry : 10:45:51 PM Monday, March 27, 2017
+  :
+  :[22:45:51]: Resquest DetectAsync
+
+-------------------------------
+
+Log Entry : 10:46:13 PM Monday, March 27, 2017
+  :
+  :Response: Success. Detected 1 face(s) in 22.500957 seconds
+-------------------------------
+
+Log Entry : 10:46:13 PM Monday, March 27, 2017
+  :
+  :[22:46:13]: Response: Success. Detected 1 face(s) in 22.500957 seconds
+
+-------------------------------
+
+Log Entry : 10:46:13 PM Monday, March 27, 2017
+  :
+  :Request: Finding similar faces in Face Match Mode for face a79fb2eb-0124-4037-b561-5c1b08b9df37
+-------------------------------
+
+Log Entry : 10:46:13 PM Monday, March 27, 2017
+  :
+  :[22:46:13]: Request: Finding similar faces in Face Match Mode for face a79fb2eb-0124-4037-b561-5c1b08b9df37
+
+-------------------------------
+
+Log Entry : 10:46:16 PM Monday, March 27, 2017
+  :
+  :Error FindSimilarAsync a79fb2eb-0124-4037-b561-5c1b08b9df37- hcm_nu_nguoilon_022016:Face list 'hcm_nu_nguoilon_022016' is not found.
+-------------------------------
+
+Log Entry : 10:46:16 PM Monday, March 27, 2017
+  :
+  :[22:46:16]: Error FindSimilarAsync a79fb2eb-0124-4037-b561-5c1b08b9df37- hcm_nu_nguoilon_022016:Face list 'hcm_nu_nguoilon_022016' is not found.
+
+-------------------------------
+
+Log Entry : 10:46:17 PM Monday, March 27, 2017
+  :
+  :Error FindSimilarAsync a79fb2eb-0124-4037-b561-5c1b08b9df37- hcm_nu_nguoilon_012016:Face list 'hcm_nu_nguoilon_012016' is not found.
+-------------------------------
+
+Log Entry : 10:46:17 PM Monday, March 27, 2017
+  :
+  :[22:46:17]: Error FindSimilarAsync a79fb2eb-0124-4037-b561-5c1b08b9df37- hcm_nu_nguoilon_012016:Face list 'hcm_nu_nguoilon_012016' is not found.
+
+-------------------------------
+
+Log Entry : 10:46:19 PM Monday, March 27, 2017
+  :
+  :Response: Success FindSimilarAsync a79fb2eb-0124-4037-b561-5c1b08b9df37- kadencehcm4
+-------------------------------
+
+Log Entry : 10:46:19 PM Monday, March 27, 2017
+  :
+  :[22:46:19]: Response: Success FindSimilarAsync a79fb2eb-0124-4037-b561-5c1b08b9df37- kadencehcm4
+
+-------------------------------
+
+Log Entry : 10:46:21 PM Monday, March 27, 2017
+  :
+  :Error FindSimilarAsync a79fb2eb-0124-4037-b561-5c1b08b9df37- hcm_nu_treem_032017:Face list 'hcm_nu_treem_032017' is empty.
+-------------------------------
+
+Log Entry : 10:46:21 PM Monday, March 27, 2017
+  :
+  :[22:46:21]: Error FindSimilarAsync a79fb2eb-0124-4037-b561-5c1b08b9df37- hcm_nu_treem_032017:Face list 'hcm_nu_treem_032017' is empty.
+
+-------------------------------
+
+Log Entry : 10:46:22 PM Monday, March 27, 2017
+  :
+  :Response: Success FindSimilarAsync a79fb2eb-0124-4037-b561-5c1b08b9df37- hcm_nu_nguoilon_032017
+-------------------------------
+
+Log Entry : 10:46:22 PM Monday, March 27, 2017
+  :
+  :[22:46:22]: Response: Success FindSimilarAsync a79fb2eb-0124-4037-b561-5c1b08b9df37- hcm_nu_nguoilon_032017
+
+-------------------------------
+
+Log Entry : 10:46:23 PM Monday, March 27, 2017
+  :
+  :Response: Success FindSimilarAsync a79fb2eb-0124-4037-b561-5c1b08b9df37- hcm_nam_nguoilon_032017
+-------------------------------
+
+Log Entry : 10:46:23 PM Monday, March 27, 2017
+  :
+  :[22:46:23]: Response: Success FindSimilarAsync a79fb2eb-0124-4037-b561-5c1b08b9df37- hcm_nam_nguoilon_032017
+
+-------------------------------
+
+Log Entry : 10:46:25 PM Monday, March 27, 2017
+  :
+  :Error FindSimilarAsync a79fb2eb-0124-4037-b561-5c1b08b9df37- hcm_nam_treem_032017:Face list 'hcm_nam_treem_032017' is empty.
+-------------------------------
+
+Log Entry : 10:46:25 PM Monday, March 27, 2017
+  :
+  :[22:46:25]: Error FindSimilarAsync a79fb2eb-0124-4037-b561-5c1b08b9df37- hcm_nam_treem_032017:Face list 'hcm_nam_treem_032017' is empty.
+
+-------------------------------
+
+Log Entry : 10:48:13 PM Monday, March 27, 2017
+  :
+  :Resquest DetectAsync
+-------------------------------
+
+Log Entry : 10:48:13 PM Monday, March 27, 2017
+  :
+  :[22:48:13]: Resquest DetectAsync
+
+-------------------------------
+
+Log Entry : 10:48:53 PM Monday, March 27, 2017
+  :
+  :Response: Success. Detected 1 face(s) in 39.6574032 seconds
+-------------------------------
+
+Log Entry : 10:48:53 PM Monday, March 27, 2017
+  :
+  :[22:48:53]: Response: Success. Detected 1 face(s) in 39.6574032 seconds
+
+-------------------------------
+
+Log Entry : 10:48:53 PM Monday, March 27, 2017
+  :
+  :Request: Finding similar faces in Face Match Mode for face e2c74aa1-9a39-433e-ba60-624d4951436a
+-------------------------------
+
+Log Entry : 10:48:53 PM Monday, March 27, 2017
+  :
+  :[22:48:53]: Request: Finding similar faces in Face Match Mode for face e2c74aa1-9a39-433e-ba60-624d4951436a
+
+-------------------------------
+
+Log Entry : 10:48:54 PM Monday, March 27, 2017
+  :
+  :Error FindSimilarAsync e2c74aa1-9a39-433e-ba60-624d4951436a- hcm_nu_nguoilon_022016:Face list 'hcm_nu_nguoilon_022016' is not found.
+-------------------------------
+
+Log Entry : 10:48:54 PM Monday, March 27, 2017
+  :
+  :[22:48:54]: Error FindSimilarAsync e2c74aa1-9a39-433e-ba60-624d4951436a- hcm_nu_nguoilon_022016:Face list 'hcm_nu_nguoilon_022016' is not found.
+
+-------------------------------
+
+Log Entry : 10:48:56 PM Monday, March 27, 2017
+  :
+  :Error FindSimilarAsync e2c74aa1-9a39-433e-ba60-624d4951436a- hcm_nu_nguoilon_012016:Face list 'hcm_nu_nguoilon_012016' is not found.
+-------------------------------
+
+Log Entry : 10:48:56 PM Monday, March 27, 2017
+  :
+  :[22:48:56]: Error FindSimilarAsync e2c74aa1-9a39-433e-ba60-624d4951436a- hcm_nu_nguoilon_012016:Face list 'hcm_nu_nguoilon_012016' is not found.
+
+-------------------------------
+
+Log Entry : 10:48:58 PM Monday, March 27, 2017
+  :
+  :Response: Success FindSimilarAsync e2c74aa1-9a39-433e-ba60-624d4951436a- kadencehcm4
+-------------------------------
+
+Log Entry : 10:48:58 PM Monday, March 27, 2017
+  :
+  :[22:48:58]: Response: Success FindSimilarAsync e2c74aa1-9a39-433e-ba60-624d4951436a- kadencehcm4
+
+-------------------------------
+
+Log Entry : 10:49:00 PM Monday, March 27, 2017
+  :
+  :Error FindSimilarAsync e2c74aa1-9a39-433e-ba60-624d4951436a- hcm_nu_treem_032017:Face list 'hcm_nu_treem_032017' is empty.
+-------------------------------
+
+Log Entry : 10:49:00 PM Monday, March 27, 2017
+  :
+  :[22:49:00]: Error FindSimilarAsync e2c74aa1-9a39-433e-ba60-624d4951436a- hcm_nu_treem_032017:Face list 'hcm_nu_treem_032017' is empty.
+
+-------------------------------
+
+Log Entry : 10:49:02 PM Monday, March 27, 2017
+  :
+  :Response: Success FindSimilarAsync e2c74aa1-9a39-433e-ba60-624d4951436a- hcm_nu_nguoilon_032017
+-------------------------------
+
+Log Entry : 10:49:02 PM Monday, March 27, 2017
+  :
+  :[22:49:02]: Response: Success FindSimilarAsync e2c74aa1-9a39-433e-ba60-624d4951436a- hcm_nu_nguoilon_032017
+
+-------------------------------
+
+Log Entry : 10:49:05 PM Monday, March 27, 2017
+  :
+  :Response: Success FindSimilarAsync e2c74aa1-9a39-433e-ba60-624d4951436a- hcm_nam_nguoilon_032017
+-------------------------------
+
+Log Entry : 10:49:05 PM Monday, March 27, 2017
+  :
+  :[22:49:05]: Response: Success FindSimilarAsync e2c74aa1-9a39-433e-ba60-624d4951436a- hcm_nam_nguoilon_032017
+
+-------------------------------
+
+Log Entry : 10:49:07 PM Monday, March 27, 2017
+  :
+  :Error FindSimilarAsync e2c74aa1-9a39-433e-ba60-624d4951436a- hcm_nam_treem_032017:Face list 'hcm_nam_treem_032017' is empty.
+-------------------------------
+
+Log Entry : 10:49:07 PM Monday, March 27, 2017
+  :
+  :[22:49:07]: Error FindSimilarAsync e2c74aa1-9a39-433e-ba60-624d4951436a- hcm_nam_treem_032017:Face list 'hcm_nam_treem_032017' is empty.
+
+-------------------------------
+
+Log Entry : 10:57:18 PM Monday, March 27, 2017
+  :
+  :Resquest DetectAsync
+-------------------------------
+
+Log Entry : 10:57:18 PM Monday, March 27, 2017
+  :
+  :[22:57:18]: Resquest DetectAsync
+
+-------------------------------
+
+Log Entry : 10:59:24 PM Monday, March 27, 2017
+  :
+  :Resquest DetectAsync
+-------------------------------
+
+Log Entry : 10:59:24 PM Monday, March 27, 2017
+  :
+  :[22:59:24]: Resquest DetectAsync
+
+-------------------------------
+
+Log Entry : 10:59:34 PM Monday, March 27, 2017
+  :
+  :Resquest DetectAsync
+-------------------------------
+
+Log Entry : 10:59:34 PM Monday, March 27, 2017
+  :
+  :[22:59:34]: Resquest DetectAsync
+
+-------------------------------
+
+Log Entry : 11:00:22 PM Monday, March 27, 2017
+  :
+  :Resquest DetectAsync
+-------------------------------
+
+Log Entry : 11:00:22 PM Monday, March 27, 2017
+  :
+  :[23:00:22]: Resquest DetectAsync
+
+-------------------------------
+
+Log Entry : 11:06:39 PM Monday, March 27, 2017
+  :
+  :Resquest DetectAsync
+-------------------------------
+
+Log Entry : 11:06:39 PM Monday, March 27, 2017
+  :
+  :[23:06:39]: Resquest DetectAsync
+
+-------------------------------
+
+Log Entry : 11:07:02 PM Monday, March 27, 2017
+  :
+  :Response: Success. Detected 1 face(s) in 22.7956618 seconds
+-------------------------------
+
+Log Entry : 11:07:02 PM Monday, March 27, 2017
+  :
+  :[23:07:02]: Response: Success. Detected 1 face(s) in 22.7956618 seconds
+
+-------------------------------
+
+Log Entry : 11:07:02 PM Monday, March 27, 2017
+  :
+  :Request: Finding similar faces in Face Match Mode for face f029958d-37e0-4bf1-9ec1-ae379c449051
+-------------------------------
+
+Log Entry : 11:07:02 PM Monday, March 27, 2017
+  :
+  :[23:07:02]: Request: Finding similar faces in Face Match Mode for face f029958d-37e0-4bf1-9ec1-ae379c449051
+
+-------------------------------
+
+Log Entry : 11:07:06 PM Monday, March 27, 2017
+  :
+  :Error FindSimilarAsync f029958d-37e0-4bf1-9ec1-ae379c449051- hcm_nu_nguoilon_022016:Face list 'hcm_nu_nguoilon_022016' is not found.
+-------------------------------
+
+Log Entry : 11:07:06 PM Monday, March 27, 2017
+  :
+  :[23:07:06]: Error FindSimilarAsync f029958d-37e0-4bf1-9ec1-ae379c449051- hcm_nu_nguoilon_022016:Face list 'hcm_nu_nguoilon_022016' is not found.
+
+-------------------------------
+
+Log Entry : 11:07:08 PM Monday, March 27, 2017
+  :
+  :Error FindSimilarAsync f029958d-37e0-4bf1-9ec1-ae379c449051- hcm_nu_nguoilon_012016:Face list 'hcm_nu_nguoilon_012016' is not found.
+-------------------------------
+
+Log Entry : 11:07:08 PM Monday, March 27, 2017
+  :
+  :[23:07:08]: Error FindSimilarAsync f029958d-37e0-4bf1-9ec1-ae379c449051- hcm_nu_nguoilon_012016:Face list 'hcm_nu_nguoilon_012016' is not found.
+
+-------------------------------
+
+Log Entry : 11:07:10 PM Monday, March 27, 2017
+  :
+  :Response: Success FindSimilarAsync f029958d-37e0-4bf1-9ec1-ae379c449051- kadencehcm4
+-------------------------------
+
+Log Entry : 11:07:10 PM Monday, March 27, 2017
+  :
+  :[23:07:10]: Response: Success FindSimilarAsync f029958d-37e0-4bf1-9ec1-ae379c449051- kadencehcm4
+
+-------------------------------
+
+Log Entry : 11:07:12 PM Monday, March 27, 2017
+  :
+  :Error FindSimilarAsync f029958d-37e0-4bf1-9ec1-ae379c449051- hcm_nu_treem_032017:Face list 'hcm_nu_treem_032017' is empty.
+-------------------------------
+
+Log Entry : 11:07:12 PM Monday, March 27, 2017
+  :
+  :[23:07:12]: Error FindSimilarAsync f029958d-37e0-4bf1-9ec1-ae379c449051- hcm_nu_treem_032017:Face list 'hcm_nu_treem_032017' is empty.
+
+-------------------------------
+
+Log Entry : 11:07:14 PM Monday, March 27, 2017
+  :
+  :Response: Success FindSimilarAsync f029958d-37e0-4bf1-9ec1-ae379c449051- hcm_nu_nguoilon_032017
+-------------------------------
+
+Log Entry : 11:07:14 PM Monday, March 27, 2017
+  :
+  :[23:07:14]: Response: Success FindSimilarAsync f029958d-37e0-4bf1-9ec1-ae379c449051- hcm_nu_nguoilon_032017
+
+-------------------------------
+
+Log Entry : 11:07:16 PM Monday, March 27, 2017
+  :
+  :Response: Success FindSimilarAsync f029958d-37e0-4bf1-9ec1-ae379c449051- hcm_nam_nguoilon_032017
+-------------------------------
+
+Log Entry : 11:07:16 PM Monday, March 27, 2017
+  :
+  :[23:07:16]: Response: Success FindSimilarAsync f029958d-37e0-4bf1-9ec1-ae379c449051- hcm_nam_nguoilon_032017
+
+-------------------------------
+
+Log Entry : 11:07:18 PM Monday, March 27, 2017
+  :
+  :Error FindSimilarAsync f029958d-37e0-4bf1-9ec1-ae379c449051- hcm_nam_treem_032017:Face list 'hcm_nam_treem_032017' is empty.
+-------------------------------
+
+Log Entry : 11:07:18 PM Monday, March 27, 2017
+  :
+  :[23:07:18]: Error FindSimilarAsync f029958d-37e0-4bf1-9ec1-ae379c449051- hcm_nam_treem_032017:Face list 'hcm_nam_treem_032017' is empty.
+
+-------------------------------
+
+Log Entry : 11:07:27 PM Monday, March 27, 2017
+  :
+  :Resquest DetectAsync
+-------------------------------
+
+Log Entry : 11:07:27 PM Monday, March 27, 2017
+  :
+  :[23:07:27]: Resquest DetectAsync
+
+-------------------------------
+
+Log Entry : 11:07:48 PM Monday, March 27, 2017
+  :
+  :Response: Success. Detected 1 face(s) in 21.0182234 seconds
+-------------------------------
+
+Log Entry : 11:07:48 PM Monday, March 27, 2017
+  :
+  :[23:07:48]: Response: Success. Detected 1 face(s) in 21.0182234 seconds
+
+-------------------------------
+
+Log Entry : 11:07:48 PM Monday, March 27, 2017
+  :
+  :Request: Finding similar faces in Face Match Mode for face 3e477256-96e4-48b0-8418-20e2c93fde28
+-------------------------------
+
+Log Entry : 11:07:48 PM Monday, March 27, 2017
+  :
+  :[23:07:48]: Request: Finding similar faces in Face Match Mode for face 3e477256-96e4-48b0-8418-20e2c93fde28
+
+-------------------------------
+
+Log Entry : 11:07:50 PM Monday, March 27, 2017
+  :
+  :Error FindSimilarAsync 3e477256-96e4-48b0-8418-20e2c93fde28- hcm_nu_nguoilon_022016:Face list 'hcm_nu_nguoilon_022016' is not found.
+-------------------------------
+
+Log Entry : 11:07:50 PM Monday, March 27, 2017
+  :
+  :[23:07:50]: Error FindSimilarAsync 3e477256-96e4-48b0-8418-20e2c93fde28- hcm_nu_nguoilon_022016:Face list 'hcm_nu_nguoilon_022016' is not found.
+
+-------------------------------
+
+Log Entry : 11:07:53 PM Monday, March 27, 2017
+  :
+  :Error FindSimilarAsync 3e477256-96e4-48b0-8418-20e2c93fde28- hcm_nu_nguoilon_012016:Face list 'hcm_nu_nguoilon_012016' is not found.
+-------------------------------
+
+Log Entry : 11:07:53 PM Monday, March 27, 2017
+  :
+  :[23:07:53]: Error FindSimilarAsync 3e477256-96e4-48b0-8418-20e2c93fde28- hcm_nu_nguoilon_012016:Face list 'hcm_nu_nguoilon_012016' is not found.
+
+-------------------------------
+
+Log Entry : 11:07:56 PM Monday, March 27, 2017
+  :
+  :Response: Success FindSimilarAsync 3e477256-96e4-48b0-8418-20e2c93fde28- kadencehcm4
+-------------------------------
+
+Log Entry : 11:07:56 PM Monday, March 27, 2017
+  :
+  :[23:07:56]: Response: Success FindSimilarAsync 3e477256-96e4-48b0-8418-20e2c93fde28- kadencehcm4
+
+-------------------------------
+
+Log Entry : 11:07:57 PM Monday, March 27, 2017
+  :
+  :Error FindSimilarAsync 3e477256-96e4-48b0-8418-20e2c93fde28- hcm_nu_treem_032017:Face list 'hcm_nu_treem_032017' is empty.
+-------------------------------
+
+Log Entry : 11:07:57 PM Monday, March 27, 2017
+  :
+  :[23:07:57]: Error FindSimilarAsync 3e477256-96e4-48b0-8418-20e2c93fde28- hcm_nu_treem_032017:Face list 'hcm_nu_treem_032017' is empty.
+
+-------------------------------
+
+Log Entry : 11:07:59 PM Monday, March 27, 2017
+  :
+  :Response: Success FindSimilarAsync 3e477256-96e4-48b0-8418-20e2c93fde28- hcm_nu_nguoilon_032017
+-------------------------------
+
+Log Entry : 11:07:59 PM Monday, March 27, 2017
+  :
+  :[23:07:59]: Response: Success FindSimilarAsync 3e477256-96e4-48b0-8418-20e2c93fde28- hcm_nu_nguoilon_032017
+
+-------------------------------
+
+Log Entry : 11:08:01 PM Monday, March 27, 2017
+  :
+  :Response: Success FindSimilarAsync 3e477256-96e4-48b0-8418-20e2c93fde28- hcm_nam_nguoilon_032017
+-------------------------------
+
+Log Entry : 11:08:01 PM Monday, March 27, 2017
+  :
+  :[23:08:01]: Response: Success FindSimilarAsync 3e477256-96e4-48b0-8418-20e2c93fde28- hcm_nam_nguoilon_032017
+
+-------------------------------
+
+Log Entry : 11:08:02 PM Monday, March 27, 2017
+  :
+  :Error FindSimilarAsync 3e477256-96e4-48b0-8418-20e2c93fde28- hcm_nam_treem_032017:Face list 'hcm_nam_treem_032017' is empty.
+-------------------------------
+
+Log Entry : 11:08:02 PM Monday, March 27, 2017
+  :
+  :[23:08:02]: Error FindSimilarAsync 3e477256-96e4-48b0-8418-20e2c93fde28- hcm_nam_treem_032017:Face list 'hcm_nam_treem_032017' is empty.
+
+-------------------------------
+
+Log Entry : 11:11:24 PM Monday, March 27, 2017
+  :
+  :Resquest DetectAsync
+-------------------------------
+
+Log Entry : 11:11:24 PM Monday, March 27, 2017
+  :
+  :[23:11:24]: Resquest DetectAsync
+
+-------------------------------
+
+Log Entry : 11:11:48 PM Monday, March 27, 2017
+  :
+  :Response: Success. Detected 1 face(s) in 24.4658389 seconds
+-------------------------------
+
+Log Entry : 11:11:48 PM Monday, March 27, 2017
+  :
+  :[23:11:48]: Response: Success. Detected 1 face(s) in 24.4658389 seconds
+
+-------------------------------
+
+Log Entry : 11:11:48 PM Monday, March 27, 2017
+  :
+  :Request: Finding similar faces in Face Match Mode for face a62f98d2-639d-4b7d-a501-3bf533b09758
+-------------------------------
+
+Log Entry : 11:11:48 PM Monday, March 27, 2017
+  :
+  :[23:11:48]: Request: Finding similar faces in Face Match Mode for face a62f98d2-639d-4b7d-a501-3bf533b09758
+
+-------------------------------
+
+Log Entry : 11:11:50 PM Monday, March 27, 2017
+  :
+  :Error FindSimilarAsync a62f98d2-639d-4b7d-a501-3bf533b09758- hcm_nu_nguoilon_022016:Face list 'hcm_nu_nguoilon_022016' is not found.
+-------------------------------
+
+Log Entry : 11:11:50 PM Monday, March 27, 2017
+  :
+  :[23:11:50]: Error FindSimilarAsync a62f98d2-639d-4b7d-a501-3bf533b09758- hcm_nu_nguoilon_022016:Face list 'hcm_nu_nguoilon_022016' is not found.
+
+-------------------------------
+
+Log Entry : 11:11:53 PM Monday, March 27, 2017
+  :
+  :Error FindSimilarAsync a62f98d2-639d-4b7d-a501-3bf533b09758- hcm_nu_nguoilon_012016:Face list 'hcm_nu_nguoilon_012016' is not found.
+-------------------------------
+
+Log Entry : 11:11:53 PM Monday, March 27, 2017
+  :
+  :[23:11:53]: Error FindSimilarAsync a62f98d2-639d-4b7d-a501-3bf533b09758- hcm_nu_nguoilon_012016:Face list 'hcm_nu_nguoilon_012016' is not found.
+
+-------------------------------
+
+Log Entry : 11:11:55 PM Monday, March 27, 2017
+  :
+  :Response: Success FindSimilarAsync a62f98d2-639d-4b7d-a501-3bf533b09758- kadencehcm4
+-------------------------------
+
+Log Entry : 11:11:55 PM Monday, March 27, 2017
+  :
+  :[23:11:55]: Response: Success FindSimilarAsync a62f98d2-639d-4b7d-a501-3bf533b09758- kadencehcm4
+
+-------------------------------
+
+Log Entry : 11:11:58 PM Monday, March 27, 2017
+  :
+  :Error FindSimilarAsync a62f98d2-639d-4b7d-a501-3bf533b09758- hcm_nu_treem_032017:Face list 'hcm_nu_treem_032017' is empty.
+-------------------------------
+
+Log Entry : 11:11:58 PM Monday, March 27, 2017
+  :
+  :[23:11:58]: Error FindSimilarAsync a62f98d2-639d-4b7d-a501-3bf533b09758- hcm_nu_treem_032017:Face list 'hcm_nu_treem_032017' is empty.
+
+-------------------------------
+
+Log Entry : 11:12:00 PM Monday, March 27, 2017
+  :
+  :Response: Success FindSimilarAsync a62f98d2-639d-4b7d-a501-3bf533b09758- hcm_nu_nguoilon_032017
+-------------------------------
+
+Log Entry : 11:12:00 PM Monday, March 27, 2017
+  :
+  :[23:12:00]: Response: Success FindSimilarAsync a62f98d2-639d-4b7d-a501-3bf533b09758- hcm_nu_nguoilon_032017
+
+-------------------------------
+
+Log Entry : 11:12:02 PM Monday, March 27, 2017
+  :
+  :Response: Success FindSimilarAsync a62f98d2-639d-4b7d-a501-3bf533b09758- hcm_nam_nguoilon_032017
+-------------------------------
+
+Log Entry : 11:12:02 PM Monday, March 27, 2017
+  :
+  :[23:12:02]: Response: Success FindSimilarAsync a62f98d2-639d-4b7d-a501-3bf533b09758- hcm_nam_nguoilon_032017
+
+-------------------------------
+
+Log Entry : 11:12:05 PM Monday, March 27, 2017
+  :
+  :Error FindSimilarAsync a62f98d2-639d-4b7d-a501-3bf533b09758- hcm_nam_treem_032017:Face list 'hcm_nam_treem_032017' is empty.
+-------------------------------
+
+Log Entry : 11:12:05 PM Monday, March 27, 2017
+  :
+  :[23:12:05]: Error FindSimilarAsync a62f98d2-639d-4b7d-a501-3bf533b09758- hcm_nam_treem_032017:Face list 'hcm_nam_treem_032017' is empty.
+
+-------------------------------
+
+Log Entry : 11:24:49 PM Monday, March 27, 2017
+  :
+  :Resquest DetectAsync
+-------------------------------
+
+Log Entry : 11:24:49 PM Monday, March 27, 2017
+  :
+  :[23:24:49]: Resquest DetectAsync
+
+-------------------------------
+
+Log Entry : 11:25:12 PM Monday, March 27, 2017
+  :
+  :Response: Success. Detected 1 face(s) in 22.9222247 seconds
+-------------------------------
+
+Log Entry : 11:25:12 PM Monday, March 27, 2017
+  :
+  :[23:25:12]: Response: Success. Detected 1 face(s) in 22.9222247 seconds
+
+-------------------------------
+
+Log Entry : 11:25:12 PM Monday, March 27, 2017
+  :
+  :Request: Finding similar faces in Face Match Mode for face 82546cef-53f8-4f6c-ad8c-92250e4f3f26
+-------------------------------
+
+Log Entry : 11:25:12 PM Monday, March 27, 2017
+  :
+  :[23:25:12]: Request: Finding similar faces in Face Match Mode for face 82546cef-53f8-4f6c-ad8c-92250e4f3f26
+
+-------------------------------
+
+Log Entry : 11:25:13 PM Monday, March 27, 2017
+  :
+  :Error FindSimilarAsync 82546cef-53f8-4f6c-ad8c-92250e4f3f26- kadencehn4:Face list 'kadencehn4' is not found.
+-------------------------------
+
+Log Entry : 11:25:13 PM Monday, March 27, 2017
+  :
+  :[23:25:13]: Error FindSimilarAsync 82546cef-53f8-4f6c-ad8c-92250e4f3f26- kadencehn4:Face list 'kadencehn4' is not found.
+
+-------------------------------
+
+Log Entry : 11:25:15 PM Monday, March 27, 2017
+  :
+  :Response: Success FindSimilarAsync 82546cef-53f8-4f6c-ad8c-92250e4f3f26- kadencehcm4
+-------------------------------
+
+Log Entry : 11:25:15 PM Monday, March 27, 2017
+  :
+  :[23:25:15]: Response: Success FindSimilarAsync 82546cef-53f8-4f6c-ad8c-92250e4f3f26- kadencehcm4
+
+-------------------------------
+
+Log Entry : 11:25:16 PM Monday, March 27, 2017
+  :
+  :Response: Success FindSimilarAsync 82546cef-53f8-4f6c-ad8c-92250e4f3f26- hcm_nu_nguoilon_032017
+-------------------------------
+
+Log Entry : 11:25:16 PM Monday, March 27, 2017
+  :
+  :[23:25:16]: Response: Success FindSimilarAsync 82546cef-53f8-4f6c-ad8c-92250e4f3f26- hcm_nu_nguoilon_032017
+
+-------------------------------
+
+Log Entry : 11:28:33 PM Monday, March 27, 2017
+  :
+  :Procedure or function 'ws_DOC_Answers_SupReUpdate' expects parameter '@GreenID', which was not supplied.
+-------------------------------
+
+Log Entry : 11:28:33 PM Monday, March 27, 2017
+  :
+  :[23:28:33]: Procedure or function 'ws_DOC_Answers_SupReUpdate' expects parameter '@GreenID', which was not supplied.
+
+-------------------------------
+
+Log Entry : 11:28:36 PM Monday, March 27, 2017
+  :
+  :Procedure or function 'ws_DOC_Answers_SupReUpdate' expects parameter '@GreenID', which was not supplied.
+-------------------------------
+
+Log Entry : 11:28:36 PM Monday, March 27, 2017
+  :
+  :[23:28:36]: Procedure or function 'ws_DOC_Answers_SupReUpdate' expects parameter '@GreenID', which was not supplied.
+
+-------------------------------
+
+Log Entry : 11:30:38 PM Monday, March 27, 2017
+  :
+  :Resquest DetectAsync
+-------------------------------
+
+Log Entry : 11:30:38 PM Monday, March 27, 2017
+  :
+  :[23:30:38]: Resquest DetectAsync
+
+-------------------------------
+
+Log Entry : 11:30:42 PM Monday, March 27, 2017
+  :
+  :Response: Success. Detected 1 face(s) in 3.4426532 seconds
+-------------------------------
+
+Log Entry : 11:30:42 PM Monday, March 27, 2017
+  :
+  :[23:30:42]: Response: Success. Detected 1 face(s) in 3.4426532 seconds
+
+-------------------------------
+
+Log Entry : 11:30:42 PM Monday, March 27, 2017
+  :
+  :Request: Finding similar faces in Face Match Mode for face b4a487a7-1b11-4e36-852c-53369962e522
+-------------------------------
+
+Log Entry : 11:30:42 PM Monday, March 27, 2017
+  :
+  :[23:30:42]: Request: Finding similar faces in Face Match Mode for face b4a487a7-1b11-4e36-852c-53369962e522
+
+-------------------------------
+
+Log Entry : 11:30:43 PM Monday, March 27, 2017
+  :
+  :Error FindSimilarAsync b4a487a7-1b11-4e36-852c-53369962e522- kadencehn4:Face list 'kadencehn4' is not found.
+-------------------------------
+
+Log Entry : 11:30:43 PM Monday, March 27, 2017
+  :
+  :[23:30:43]: Error FindSimilarAsync b4a487a7-1b11-4e36-852c-53369962e522- kadencehn4:Face list 'kadencehn4' is not found.
+
+-------------------------------
+
+Log Entry : 11:30:45 PM Monday, March 27, 2017
+  :
+  :Response: Success FindSimilarAsync b4a487a7-1b11-4e36-852c-53369962e522- kadencehcm4
+-------------------------------
+
+Log Entry : 11:30:45 PM Monday, March 27, 2017
+  :
+  :[23:30:45]: Response: Success FindSimilarAsync b4a487a7-1b11-4e36-852c-53369962e522- kadencehcm4
+
+-------------------------------
+
+Log Entry : 11:30:46 PM Monday, March 27, 2017
+  :
+  :Response: Success FindSimilarAsync b4a487a7-1b11-4e36-852c-53369962e522- hcm_nu_nguoilon_032017
+-------------------------------
+
+Log Entry : 11:30:46 PM Monday, March 27, 2017
+  :
+  :[23:30:46]: Response: Success FindSimilarAsync b4a487a7-1b11-4e36-852c-53369962e522- hcm_nu_nguoilon_032017
+
+-------------------------------
+
+Log Entry : 11:30:46 PM Monday, March 27, 2017
+  :
+  :Không tìm thấy khuôn mặt giống khuôn mặt đáp viên NGUYỄN TƯỜNG VY
+-------------------------------
+
+Log Entry : 11:30:46 PM Monday, March 27, 2017
+  :
+  :[23:30:46]: Không tìm thấy khuôn mặt giống khuôn mặt đáp viên NGUYỄN TƯỜNG VY
+
+-------------------------------
+
+Log Entry : 11:31:27 PM Monday, March 27, 2017
+  :
+  :Resquest DetectAsync
+-------------------------------
+
+Log Entry : 11:31:27 PM Monday, March 27, 2017
+  :
+  :[23:31:27]: Resquest DetectAsync
+
+-------------------------------
+
+Log Entry : 11:31:31 PM Monday, March 27, 2017
+  :
+  :Response: Success. Detected 1 face(s) in 4.6596222 seconds
+-------------------------------
+
+Log Entry : 11:31:31 PM Monday, March 27, 2017
+  :
+  :[23:31:31]: Response: Success. Detected 1 face(s) in 4.6596222 seconds
+
+-------------------------------
+
+Log Entry : 11:31:31 PM Monday, March 27, 2017
+  :
+  :Request: Finding similar faces in Face Match Mode for face 9239ec64-59fa-4429-9417-cfd1112ae2f5
+-------------------------------
+
+Log Entry : 11:31:31 PM Monday, March 27, 2017
+  :
+  :[23:31:31]: Request: Finding similar faces in Face Match Mode for face 9239ec64-59fa-4429-9417-cfd1112ae2f5
+
+-------------------------------
+
+Log Entry : 11:31:33 PM Monday, March 27, 2017
+  :
+  :Error FindSimilarAsync 9239ec64-59fa-4429-9417-cfd1112ae2f5- kadencehn4:Face list 'kadencehn4' is not found.
+-------------------------------
+
+Log Entry : 11:31:33 PM Monday, March 27, 2017
+  :
+  :[23:31:33]: Error FindSimilarAsync 9239ec64-59fa-4429-9417-cfd1112ae2f5- kadencehn4:Face list 'kadencehn4' is not found.
+
+-------------------------------
+
+Log Entry : 11:31:34 PM Monday, March 27, 2017
+  :
+  :Response: Success FindSimilarAsync 9239ec64-59fa-4429-9417-cfd1112ae2f5- kadencehcm4
+-------------------------------
+
+Log Entry : 11:31:34 PM Monday, March 27, 2017
+  :
+  :[23:31:34]: Response: Success FindSimilarAsync 9239ec64-59fa-4429-9417-cfd1112ae2f5- kadencehcm4
+
+-------------------------------
+
+Log Entry : 11:31:35 PM Monday, March 27, 2017
+  :
+  :Response: Success FindSimilarAsync 9239ec64-59fa-4429-9417-cfd1112ae2f5- hcm_nu_nguoilon_032017
+-------------------------------
+
+Log Entry : 11:31:35 PM Monday, March 27, 2017
+  :
+  :[23:31:35]: Response: Success FindSimilarAsync 9239ec64-59fa-4429-9417-cfd1112ae2f5- hcm_nu_nguoilon_032017
+
+-------------------------------
+
+Log Entry : 11:31:35 PM Monday, March 27, 2017
+  :
+  :Không tìm thấy khuôn mặt giống khuôn mặt đáp viên NGUYỄN TƯỜNG VY
+-------------------------------
+
+Log Entry : 11:31:35 PM Monday, March 27, 2017
+  :
+  :[23:31:35]: Không tìm thấy khuôn mặt giống khuôn mặt đáp viên NGUYỄN TƯỜNG VY
+
+-------------------------------
+
+Log Entry : 11:31:40 PM Monday, March 27, 2017
+  :
+  :Resquest DetectAsync
+-------------------------------
+
+Log Entry : 11:31:40 PM Monday, March 27, 2017
+  :
+  :[23:31:40]: Resquest DetectAsync
+
+-------------------------------
+
+Log Entry : 11:31:44 PM Monday, March 27, 2017
+  :
+  :Response: Success. Detected 1 face(s) in 3.4292773 seconds
+-------------------------------
+
+Log Entry : 11:31:44 PM Monday, March 27, 2017
+  :
+  :[23:31:44]: Response: Success. Detected 1 face(s) in 3.4292773 seconds
+
+-------------------------------
+
+Log Entry : 11:31:44 PM Monday, March 27, 2017
+  :
+  :Request: Finding similar faces in Face Match Mode for face a1ed7680-c1ea-4818-8fc2-793e18738fd8
+-------------------------------
+
+Log Entry : 11:31:44 PM Monday, March 27, 2017
+  :
+  :[23:31:44]: Request: Finding similar faces in Face Match Mode for face a1ed7680-c1ea-4818-8fc2-793e18738fd8
+
+-------------------------------
+
+Log Entry : 11:31:45 PM Monday, March 27, 2017
+  :
+  :Error FindSimilarAsync a1ed7680-c1ea-4818-8fc2-793e18738fd8- kadencehn4:Face list 'kadencehn4' is not found.
+-------------------------------
+
+Log Entry : 11:31:45 PM Monday, March 27, 2017
+  :
+  :[23:31:45]: Error FindSimilarAsync a1ed7680-c1ea-4818-8fc2-793e18738fd8- kadencehn4:Face list 'kadencehn4' is not found.
+
+-------------------------------
+
+Log Entry : 11:31:48 PM Monday, March 27, 2017
+  :
+  :Response: Success FindSimilarAsync a1ed7680-c1ea-4818-8fc2-793e18738fd8- kadencehcm4
+-------------------------------
+
+Log Entry : 11:31:48 PM Monday, March 27, 2017
+  :
+  :[23:31:48]: Response: Success FindSimilarAsync a1ed7680-c1ea-4818-8fc2-793e18738fd8- kadencehcm4
+
+-------------------------------
+
+Log Entry : 11:31:50 PM Monday, March 27, 2017
+  :
+  :Response: Success FindSimilarAsync a1ed7680-c1ea-4818-8fc2-793e18738fd8- hcm_nu_nguoilon_032017
+-------------------------------
+
+Log Entry : 11:31:50 PM Monday, March 27, 2017
+  :
+  :[23:31:50]: Response: Success FindSimilarAsync a1ed7680-c1ea-4818-8fc2-793e18738fd8- hcm_nu_nguoilon_032017
+
+-------------------------------
+
+Log Entry : 11:31:50 PM Monday, March 27, 2017
+  :
+  :Không tìm thấy khuôn mặt giống khuôn mặt đáp viên NGUYỄN TƯỜNG VY
+-------------------------------
+
+Log Entry : 11:31:50 PM Monday, March 27, 2017
+  :
+  :[23:31:50]: Không tìm thấy khuôn mặt giống khuôn mặt đáp viên NGUYỄN TƯỜNG VY
+
+-------------------------------
+
+Log Entry : 11:32:26 PM Monday, March 27, 2017
+  :
+  :Đã gửi yêu cầu lưu thông tin của đáp viên NGUYỄN TƯỜNG VY
+-------------------------------
+
+Log Entry : 11:32:26 PM Monday, March 27, 2017
+  :
+  :[23:32:26]: Đã gửi yêu cầu lưu thông tin của đáp viên NGUYỄN TƯỜNG VY
+
+-------------------------------
+
+Log Entry : 11:32:27 PM Monday, March 27, 2017
+  :
+  :Resquest AddtoFaceList 
+-------------------------------
+
+Log Entry : 11:32:27 PM Monday, March 27, 2017
+  :
+  :[23:32:27]: Resquest AddtoFaceList 
+
+-------------------------------
+
+Log Entry : 11:32:30 PM Monday, March 27, 2017
+  :
+  :Complted Resquest AddtoFaceList 
+-------------------------------
+
+Log Entry : 11:32:30 PM Monday, March 27, 2017
+  :
+  :[23:32:30]: Complted Resquest AddtoFaceList 
+
+-------------------------------
+
+Log Entry : 11:32:31 PM Monday, March 27, 2017
+  :
+  :Đã lưu thành công thông tin của đáp viên NGUYỄN TƯỜNG VY dee990e7-1256-493b-b740-c467ce1f2e36
+-------------------------------
+
+Log Entry : 11:32:31 PM Monday, March 27, 2017
+  :
+  :[23:32:31]: Đã lưu thành công thông tin của đáp viên NGUYỄN TƯỜNG VY dee990e7-1256-493b-b740-c467ce1f2e36
+
+-------------------------------
+
+Log Entry : 11:32:51 PM Monday, March 27, 2017
+  :
+  :Resquest DetectAsync
+-------------------------------
+
+Log Entry : 11:32:51 PM Monday, March 27, 2017
+  :
+  :[23:32:51]: Resquest DetectAsync
+
+-------------------------------
+
+Log Entry : 11:32:55 PM Monday, March 27, 2017
+  :
+  :Response: Success. Detected 1 face(s) in 3.8916552 seconds
+-------------------------------
+
+Log Entry : 11:32:55 PM Monday, March 27, 2017
+  :
+  :[23:32:55]: Response: Success. Detected 1 face(s) in 3.8916552 seconds
+
+-------------------------------
+
+Log Entry : 11:32:55 PM Monday, March 27, 2017
+  :
+  :Request: Finding similar faces in Face Match Mode for face af3de329-1521-4b2d-aa93-e6dcf84b7f58
+-------------------------------
+
+Log Entry : 11:32:55 PM Monday, March 27, 2017
+  :
+  :[23:32:55]: Request: Finding similar faces in Face Match Mode for face af3de329-1521-4b2d-aa93-e6dcf84b7f58
+
+-------------------------------
+
+Log Entry : 11:32:56 PM Monday, March 27, 2017
+  :
+  :Error FindSimilarAsync af3de329-1521-4b2d-aa93-e6dcf84b7f58- kadencehn4:Face list 'kadencehn4' is not found.
+-------------------------------
+
+Log Entry : 11:32:56 PM Monday, March 27, 2017
+  :
+  :[23:32:56]: Error FindSimilarAsync af3de329-1521-4b2d-aa93-e6dcf84b7f58- kadencehn4:Face list 'kadencehn4' is not found.
+
+-------------------------------
+
+Log Entry : 11:32:58 PM Monday, March 27, 2017
+  :
+  :Response: Success FindSimilarAsync af3de329-1521-4b2d-aa93-e6dcf84b7f58- kadencehcm4
+-------------------------------
+
+Log Entry : 11:32:58 PM Monday, March 27, 2017
+  :
+  :[23:32:58]: Response: Success FindSimilarAsync af3de329-1521-4b2d-aa93-e6dcf84b7f58- kadencehcm4
+
+-------------------------------
+
+Log Entry : 11:32:59 PM Monday, March 27, 2017
+  :
+  :Response: Success FindSimilarAsync af3de329-1521-4b2d-aa93-e6dcf84b7f58- hcm_nu_nguoilon_032017
+-------------------------------
+
+Log Entry : 11:32:59 PM Monday, March 27, 2017
+  :
+  :[23:32:59]: Response: Success FindSimilarAsync af3de329-1521-4b2d-aa93-e6dcf84b7f58- hcm_nu_nguoilon_032017
+
+-------------------------------
+
+Log Entry : 11:33:11 PM Monday, March 27, 2017
+  :
+  :Resquest DetectAsync
+-------------------------------
+
+Log Entry : 11:33:11 PM Monday, March 27, 2017
+  :
+  :[23:33:11]: Resquest DetectAsync
+
+-------------------------------
+
+Log Entry : 11:33:18 PM Monday, March 27, 2017
+  :
+  :Response: Success. Detected 1 face(s) in 7.2737577 seconds
+-------------------------------
+
+Log Entry : 11:33:18 PM Monday, March 27, 2017
+  :
+  :[23:33:18]: Response: Success. Detected 1 face(s) in 7.2737577 seconds
+
+-------------------------------
+
+Log Entry : 11:33:18 PM Monday, March 27, 2017
+  :
+  :Request: Finding similar faces in Face Match Mode for face 510150e6-0b38-4265-9e2f-536f24cf78fe
+-------------------------------
+
+Log Entry : 11:33:18 PM Monday, March 27, 2017
+  :
+  :[23:33:18]: Request: Finding similar faces in Face Match Mode for face 510150e6-0b38-4265-9e2f-536f24cf78fe
+
+-------------------------------
+
+Log Entry : 11:33:20 PM Monday, March 27, 2017
+  :
+  :Error FindSimilarAsync 510150e6-0b38-4265-9e2f-536f24cf78fe- kadencehn4:Face list 'kadencehn4' is not found.
+-------------------------------
+
+Log Entry : 11:33:20 PM Monday, March 27, 2017
+  :
+  :[23:33:20]: Error FindSimilarAsync 510150e6-0b38-4265-9e2f-536f24cf78fe- kadencehn4:Face list 'kadencehn4' is not found.
+
+-------------------------------
+
+Log Entry : 11:33:21 PM Monday, March 27, 2017
+  :
+  :Response: Success FindSimilarAsync 510150e6-0b38-4265-9e2f-536f24cf78fe- kadencehcm4
+-------------------------------
+
+Log Entry : 11:33:21 PM Monday, March 27, 2017
+  :
+  :[23:33:21]: Response: Success FindSimilarAsync 510150e6-0b38-4265-9e2f-536f24cf78fe- kadencehcm4
+
+-------------------------------
+
+Log Entry : 11:33:23 PM Monday, March 27, 2017
+  :
+  :Response: Success FindSimilarAsync 510150e6-0b38-4265-9e2f-536f24cf78fe- hcm_nu_nguoilon_032017
+-------------------------------
+
+Log Entry : 11:33:23 PM Monday, March 27, 2017
+  :
+  :[23:33:23]: Response: Success FindSimilarAsync 510150e6-0b38-4265-9e2f-536f24cf78fe- hcm_nu_nguoilon_032017
+
+-------------------------------
+
+Log Entry : 11:36:50 PM Monday, March 27, 2017
+  :
+  :Đã lưu thành công thông tin của đáp viên NGUYỄN TƯỜNG VY dee990e7-1256-493b-b740-c467ce1f2e36
+-------------------------------
+
+Log Entry : 11:36:50 PM Monday, March 27, 2017
+  :
+  :[23:36:50]: Đã lưu thành công thông tin của đáp viên NGUYỄN TƯỜNG VY dee990e7-1256-493b-b740-c467ce1f2e36
+
+-------------------------------
+
+Log Entry : 11:15:12 AM Tuesday, March 28, 2017
+  :
+  :Resquest DetectAsync
+-------------------------------
+
+Log Entry : 11:15:12 AM Tuesday, March 28, 2017
+  :
+  :[11:15:12]: Resquest DetectAsync
+
+-------------------------------
+
+Log Entry : 11:15:55 AM Tuesday, March 28, 2017
+  :
+  :Resquest DetectAsync
+-------------------------------
+
+Log Entry : 11:15:55 AM Tuesday, March 28, 2017
+  :
+  :[11:15:55]: Resquest DetectAsync
+
+-------------------------------
+
+Log Entry : 11:17:12 AM Tuesday, March 28, 2017
+  :
+  :Response: Success. Detected 1 face(s) in 76.7261075 seconds
+-------------------------------
+
+Log Entry : 11:17:12 AM Tuesday, March 28, 2017
+  :
+  :[11:17:12]: Response: Success. Detected 1 face(s) in 76.7261075 seconds
+
+-------------------------------
+
+Log Entry : 11:17:12 AM Tuesday, March 28, 2017
+  :
+  :Request: Finding similar faces in Face Match Mode for face e4dd6fcf-aa75-4400-8d2a-a7123682e012
+-------------------------------
+
+Log Entry : 11:17:12 AM Tuesday, March 28, 2017
+  :
+  :[11:17:12]: Request: Finding similar faces in Face Match Mode for face e4dd6fcf-aa75-4400-8d2a-a7123682e012
+
+-------------------------------
+
+Log Entry : 11:17:14 AM Tuesday, March 28, 2017
+  :
+  :Response: Success FindSimilarAsync e4dd6fcf-aa75-4400-8d2a-a7123682e012- kadencehn4
+-------------------------------
+
+Log Entry : 11:17:14 AM Tuesday, March 28, 2017
+  :
+  :[11:17:14]: Response: Success FindSimilarAsync e4dd6fcf-aa75-4400-8d2a-a7123682e012- kadencehn4
+
+-------------------------------
+
+Log Entry : 11:17:15 AM Tuesday, March 28, 2017
+  :
+  :Response: Success FindSimilarAsync e4dd6fcf-aa75-4400-8d2a-a7123682e012- kadencehcm4
+-------------------------------
+
+Log Entry : 11:17:15 AM Tuesday, March 28, 2017
+  :
+  :[11:17:15]: Response: Success FindSimilarAsync e4dd6fcf-aa75-4400-8d2a-a7123682e012- kadencehcm4
+
+-------------------------------
+
+Log Entry : 11:17:16 AM Tuesday, March 28, 2017
+  :
+  :Response: Success FindSimilarAsync e4dd6fcf-aa75-4400-8d2a-a7123682e012- hcm_nu_nguoilon_032017
+-------------------------------
+
+Log Entry : 11:17:16 AM Tuesday, March 28, 2017
+  :
+  :[11:17:16]: Response: Success FindSimilarAsync e4dd6fcf-aa75-4400-8d2a-a7123682e012- hcm_nu_nguoilon_032017
+
+-------------------------------
+
+Log Entry : 11:17:30 AM Tuesday, March 28, 2017
+  :
+  :Đã lưu thành công thông tin của đáp viên NGUYỄN THỊ THANH THẢO 3f4e6505-d2d4-4a21-af72-f421171f5df7
+-------------------------------
+
+Log Entry : 11:17:30 AM Tuesday, March 28, 2017
+  :
+  :[11:17:30]: Đã lưu thành công thông tin của đáp viên NGUYỄN THỊ THANH THẢO 3f4e6505-d2d4-4a21-af72-f421171f5df7
+
+-------------------------------
+
+Log Entry : 11:18:34 AM Tuesday, March 28, 2017
+  :
+  :Chỉ có thể chọn 1 trong 3 trạng thái Ok, Extra,Cancel
+-------------------------------
+
+Log Entry : 11:18:34 AM Tuesday, March 28, 2017
+  :
+  :[11:18:34]: Chỉ có thể chọn 1 trong 3 trạng thái Ok, Extra,Cancel
+
+-------------------------------
+
+Log Entry : 11:20:31 AM Tuesday, March 28, 2017
+  :
+  :QC đã check và không Ok.Không thể thay đổi thông tin.Vui lòng liên hệ QC kiểm tra lại
+-------------------------------
+
+Log Entry : 11:20:31 AM Tuesday, March 28, 2017
+  :
+  :[11:20:31]: QC đã check và không Ok.Không thể thay đổi thông tin.Vui lòng liên hệ QC kiểm tra lại
+
+-------------------------------
+
+Log Entry : 11:20:53 AM Tuesday, March 28, 2017
+  :
+  :QC đã check và không Ok.Không thể thay đổi thông tin.Vui lòng liên hệ QC kiểm tra lại
+-------------------------------
+
+Log Entry : 11:20:53 AM Tuesday, March 28, 2017
+  :
+  :[11:20:53]: QC đã check và không Ok.Không thể thay đổi thông tin.Vui lòng liên hệ QC kiểm tra lại
+
+-------------------------------
+
+Log Entry : 11:20:57 AM Tuesday, March 28, 2017
+  :
+  :QC đã check và không Ok.Không thể thay đổi thông tin.Vui lòng liên hệ QC kiểm tra lại
+-------------------------------
+
+Log Entry : 11:20:57 AM Tuesday, March 28, 2017
+  :
+  :[11:20:57]: QC đã check và không Ok.Không thể thay đổi thông tin.Vui lòng liên hệ QC kiểm tra lại
+
+-------------------------------
+
+Log Entry : 11:21:12 AM Tuesday, March 28, 2017
+  :
+  :QC đã kiểm tra Ok. Vui lòng chọn 3 trạng thái Ok,Cancel, Extra
+-------------------------------
+
+Log Entry : 11:21:12 AM Tuesday, March 28, 2017
+  :
+  :[11:21:12]: QC đã kiểm tra Ok. Vui lòng chọn 3 trạng thái Ok,Cancel, Extra
+
+-------------------------------
+
+Log Entry : 11:21:16 AM Tuesday, March 28, 2017
+  :
+  :QC đã kiểm tra Ok. Vui lòng chọn 3 trạng thái Ok,Cancel, Extra
+-------------------------------
+
+Log Entry : 11:21:16 AM Tuesday, March 28, 2017
+  :
+  :[11:21:16]: QC đã kiểm tra Ok. Vui lòng chọn 3 trạng thái Ok,Cancel, Extra
+
+-------------------------------
+
+Log Entry : 11:21:19 AM Tuesday, March 28, 2017
+  :
+  :QC đã kiểm tra Ok. Vui lòng chọn 3 trạng thái Ok,Cancel, Extra
+-------------------------------
+
+Log Entry : 11:21:19 AM Tuesday, March 28, 2017
+  :
+  :[11:21:19]: QC đã kiểm tra Ok. Vui lòng chọn 3 trạng thái Ok,Cancel, Extra
+
+-------------------------------
+
+Log Entry : 11:21:45 AM Tuesday, March 28, 2017
+  :
+  :Đã lưu thành công thông tin của đáp viên NGUYỄN THỊ THANH THẢO 3f4e6505-d2d4-4a21-af72-f421171f5df7
+-------------------------------
+
+Log Entry : 11:21:45 AM Tuesday, March 28, 2017
+  :
+  :[11:21:45]: Đã lưu thành công thông tin của đáp viên NGUYỄN THỊ THANH THẢO 3f4e6505-d2d4-4a21-af72-f421171f5df7
+
+-------------------------------
+
+Log Entry : 11:22:25 AM Tuesday, March 28, 2017
+  :
+  :Đã lưu thành công thông tin của đáp viên NGUYỄN THỊ THANH THẢO 3f4e6505-d2d4-4a21-af72-f421171f5df7
+-------------------------------
+
+Log Entry : 11:22:25 AM Tuesday, March 28, 2017
+  :
+  :[11:22:25]: Đã lưu thành công thông tin của đáp viên NGUYỄN THỊ THANH THẢO 3f4e6505-d2d4-4a21-af72-f421171f5df7
+
+-------------------------------
+
+Log Entry : 11:40:46 AM Tuesday, March 28, 2017
+  :
+  :Đã lưu thành công thông tin của đáp viên NGUYỄN THỊ THANH THẢO 3f4e6505-d2d4-4a21-af72-f421171f5df7
+-------------------------------
+
+Log Entry : 11:40:46 AM Tuesday, March 28, 2017
+  :
+  :[11:40:46]: Đã lưu thành công thông tin của đáp viên NGUYỄN THỊ THANH THẢO 3f4e6505-d2d4-4a21-af72-f421171f5df7
+
+-------------------------------
+
+Log Entry : 11:41:24 AM Tuesday, March 28, 2017
+  :
+  :Đã lưu thành công thông tin của đáp viên NGUYỄN THỊ THANH THẢO 3f4e6505-d2d4-4a21-af72-f421171f5df7
+-------------------------------
+
+Log Entry : 11:41:24 AM Tuesday, March 28, 2017
+  :
+  :[11:41:24]: Đã lưu thành công thông tin của đáp viên NGUYỄN THỊ THANH THẢO 3f4e6505-d2d4-4a21-af72-f421171f5df7
+
+-------------------------------
+
+Log Entry : 3:35:25 PM Thursday, May 18, 2017
+  :
+  :Resquest DetectAsync
+-------------------------------
+
+Log Entry : 3:35:25 PM Thursday, May 18, 2017
+  :
+  :[15:35:25]: Resquest DetectAsync
+
+-------------------------------
+
+Log Entry : 3:35:36 PM Thursday, May 18, 2017
+  :
+  :Response: Success. Detected 1 face(s) in 11.0553061 seconds
+-------------------------------
+
+Log Entry : 3:35:36 PM Thursday, May 18, 2017
+  :
+  :[15:35:36]: Response: Success. Detected 1 face(s) in 11.0553061 seconds
+
+-------------------------------
+
+Log Entry : 3:35:36 PM Thursday, May 18, 2017
+  :
+  :Request: Finding similar faces in Face Match Mode for face 973e2233-7944-45b8-8f66-fd68a5a2058f
+-------------------------------
+
+Log Entry : 3:35:36 PM Thursday, May 18, 2017
+  :
+  :[15:35:36]: Request: Finding similar faces in Face Match Mode for face 973e2233-7944-45b8-8f66-fd68a5a2058f
+
+-------------------------------
+
+Log Entry : 3:35:53 PM Thursday, May 18, 2017
+  :
+  :Response: Success FindSimilarAsync 973e2233-7944-45b8-8f66-fd68a5a2058f- kadencehn4
+-------------------------------
+
+Log Entry : 3:35:53 PM Thursday, May 18, 2017
+  :
+  :[15:35:53]: Response: Success FindSimilarAsync 973e2233-7944-45b8-8f66-fd68a5a2058f- kadencehn4
+
+-------------------------------
+
+Log Entry : 3:35:54 PM Thursday, May 18, 2017
+  :
+  :Response: Success FindSimilarAsync 973e2233-7944-45b8-8f66-fd68a5a2058f- kadencehcm4
+-------------------------------
+
+Log Entry : 3:35:54 PM Thursday, May 18, 2017
+  :
+  :[15:35:54]: Response: Success FindSimilarAsync 973e2233-7944-45b8-8f66-fd68a5a2058f- kadencehcm4
+
+-------------------------------
+
+Log Entry : 3:35:55 PM Thursday, May 18, 2017
+  :
+  :Response: Success FindSimilarAsync 973e2233-7944-45b8-8f66-fd68a5a2058f- hcm_nu_nguoilon_032017
+-------------------------------
+
+Log Entry : 3:35:55 PM Thursday, May 18, 2017
+  :
+  :[15:35:55]: Response: Success FindSimilarAsync 973e2233-7944-45b8-8f66-fd68a5a2058f- hcm_nu_nguoilon_032017
+
+-------------------------------
+
+Log Entry : 3:41:08 PM Thursday, May 18, 2017
+  :
+  :Đã gửi yêu cầu lưu thông tin của đáp viên BÙI THỊ NGA
+-------------------------------
+
+Log Entry : 3:41:08 PM Thursday, May 18, 2017
+  :
+  :[15:41:08]: Đã gửi yêu cầu lưu thông tin của đáp viên BÙI THỊ NGA
+
+-------------------------------
+
+Log Entry : 3:41:11 PM Thursday, May 18, 2017
+  :
+  :Resquest AddtoFaceList 
+-------------------------------
+
+Log Entry : 3:41:11 PM Thursday, May 18, 2017
+  :
+  :[15:41:11]: Resquest AddtoFaceList 
+
+-------------------------------
+
+Log Entry : 3:41:23 PM Thursday, May 18, 2017
+  :
+  :Complted Resquest AddtoFaceList 
+-------------------------------
+
+Log Entry : 3:41:23 PM Thursday, May 18, 2017
+  :
+  :[15:41:23]: Complted Resquest AddtoFaceList 
+
+-------------------------------
+
+Log Entry : 3:41:25 PM Thursday, May 18, 2017
+  :
+  :Đã lưu thành công thông tin của đáp viên BÙI THỊ NGA 160d3355-0947-49da-ab3d-61b36a135fd7
+-------------------------------
+
+Log Entry : 3:41:25 PM Thursday, May 18, 2017
+  :
+  :[15:41:25]: Đã lưu thành công thông tin của đáp viên BÙI THỊ NGA 160d3355-0947-49da-ab3d-61b36a135fd7
+
+-------------------------------
